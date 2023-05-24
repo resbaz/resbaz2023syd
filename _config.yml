@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "ResBaz Sydney 2021"
+title: "ResBaz Sydney 2023"
 email: "resbazsyd@gmail.com"
 description: "A conference promoting digital literacy and skill-sharing for researchers"
-baseurl: "/resbaz2021/sydney"
+baseurl: "/resbaz2023syd"
 url: "https://resbaz.github.io"
 permalink: "/news/:title"
 googleAnalyticsTrackingId: "xxxxxxxx"
@@ -30,7 +30,7 @@ organizerAlternateName: "ResBaz Sydney"
 organizerDescription: "The organisers of ResBaz Sydney"
 organizerEmail: "resbazsyd@gmail.com"
 organizerLogo: "/img/seo/ResBaz_transparent_cropped.png"
-organizerLink: "https://resbaz.github.io/resbaz2021/sydney"
+organizerLink: "https://resbaz.github.io/resbaz2023syd"
 
 
 # Head
@@ -49,29 +49,29 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
- - {permalink: "/news/", text: "News"}
- - {permalink: "/posters/", text: "Posters"}
- - {permalink: "/program/", text: "Program"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/code/", text: "Code of Conduct"}
-bottomNavigationLinks:
- - {permalink: "/program/", text: "Register here"}
- - {permalink: "/posters/", text: "Posters"}
-rightNavigationButtons:
- - {permalink: "/program/", text: "Register here"}
- - {permalink: "/posters/", text: "Posters"}
+ # - {permalink: "/news/", text: "News"}
+ # - {permalink: "/posters/", text: "Posters"}
+ # - {permalink: "/program/", text: "Program"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/code/", text: "Code of Conduct"}
+# bottomNavigationLinks:
+ # - {permalink: "/program/", text: "Register here"}
+ # - {permalink: "/posters/", text: "Posters"}
+# rightNavigationButtons:
+ # - {permalink: "/program/", text: "Register here"}
+ # - {permalink: "/posters/", text: "Posters"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "ResBaz Sydney 2021"
-eventDate: "Tue 23-Thu 25 November 2021"
-heroButtons:
- - {permalink: "/program/", text: "Register here"}
+heroTitle: "ResBaz Sydney 2023"
+eventDate: "Tue 26-Thu 28 September 2023"
+# heroButtons:
+#  - {permalink: "/program/", text: "Register here"}
 
 # About Block
 aboutTitle: "About ResBaz"
 aboutBlock:
- - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2021 will be a multi stream online event Tuesday 23-Thursday 25 November 2021. The program will feature key stories (like keynotes, but with a narrative!), workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Our program has dedicated streams for Compute, Humanities and Social Science, and Survey / Data Collection, as well as two streams for introductory programming skills, which are open to all, regardless of skill level or discipline. Lots of breaks, lots of opportunities to find your people across institutions and disciplines, and plenty of neat tricks and hacks to level up on your nerd skills." }
+ - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2023 will be a face-to-face event hosted by the University of Sydney on Tuesday 26-Thursday 27 September 2023. The program will feature keynotes, workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Watch this space for program updates and announcements!" }
 
 
 
@@ -94,7 +94,7 @@ latestNewsTitle: "Latest news"
 
 
 # Past events Block
-pastBlockTitle: "ResBaz 2019"
+pastBlockTitle: "ResBaz 2021"
 pastBigImage: audience.jpg 
 pastSmallImage1: genomics.jpg
 pastSmallImage2: jasper.jpg
@@ -120,10 +120,10 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:resbazsyd@gmail.com", text: "resbazsyd@gmail.com"}
- -
-  title: "Code of Conduct"
-  links:
-   - {permalink: "/code/", text: "Code of Conduct"}
+ # -
+ #  title: "Code of Conduct"
+ #  links:
+ #   - {permalink: "/code/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
@@ -134,5 +134,5 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Volunteers"
-aboutUs: "We'd like to thank all of the dedicated volunteers who have made ResBaz Sydney 2021 possible!"
+aboutUs: "We'd like to thank all of the dedicated volunteers who have made ResBaz Sydney 2023 possible!"
 

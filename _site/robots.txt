@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/resbaz2021/sydney/sitemap.xml
+Sitemap: http://localhost:4000/resbaz2023syd/sitemap.xml
