@@ -5,65 +5,10 @@
   title: "University of Sydney"
   thumbnailUrl: AvatarPlaceholder.png
   team: true
-- 
-  id: 1
-  name: "Jacky"
-  surname: "Cho"
-  title: "UNSW Sydney"
-  thumbnailUrl: JackyCho.jpg
-  team: true
-- 
-  id: 2
-  name: "Avril"
-  surname: "Clarkson"
-  title: "UNSW Sydney"
-  thumbnailUrl: AvrilClarkson.jpg
-  team: true
-- 
-  id: 3
-  name: "Doris"
-  surname: "Harrison"
-  title: "UNSW Sydney"
-  thumbnailUrl: DorisHarrison.jpg
-  team: true
 -
-  id: 8
+  id: 1
   name: "Mike"
   surname: "Lynch"
   title: "University of Sydney"
   thumbnailUrl: MikeLynch.jpg
-  team: true
-- 
-  id: 4
-  name: "Andreas"
-  surname: "Mertin"
-  title: "University of Technology Sydney"
-  thumbnailUrl: AvatarPlaceholder.png
-  team: true
-- 
-  id: 5
-  name: "Anastasios"
-  surname: "Papaioannou"
-  title: "Intersect"
-  thumbnailUrl: Anastasios_ProfilePic.png
-  team: true
-- 
-  id: 9
-  name: "Abdullah Shaikh"
-  title: "Intersect"
-  thumbnailUrl: "AbdullahShaikh.png"
-  team: true
-- 
-  id: 6
-  name: "Liz"
-  surname: "Stokes"
-  title: "ARDC"
-  thumbnailUrl: Liz_Stokes_02.jpg
-  team: true
-- 
-  id: 7
-  name: "Katrina"
-  surname: "Trewin"
-  title: "Western Sydney University"
-  thumbnailUrl: KatrinaTrewin.jpg
   team: true
