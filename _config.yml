@@ -71,7 +71,7 @@ eventDate: "Tue 26-Thu 28 September"
 # About Block
 aboutTitle: "About ResBaz"
 aboutBlock:
- - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2023 will be a face-to-face event hosted by the University of Sydney on Tuesday 26-Thursday 27 September 2023. The program will feature keynotes, workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Watch this space for program updates and announcements!" }
+ - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2023 will be a face-to-face event hosted by the University of Sydney on Tuesday 26-Thursday 28 September 2023. The program will feature keynotes, workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Watch this space for program updates and announcements!" }
 
 
 
