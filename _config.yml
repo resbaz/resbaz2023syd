@@ -62,16 +62,16 @@ navigationLinks:
  # - {permalink: "/posters/", text: "Posters"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "ResBaz Sydney 2023"
-eventDate: "Tue 26-Thu 28 September"
+heroImage: "usyd-reflection.jpg"
+heroTitle: "<b>ResBaz Sydney 2023</b>"
+eventDate: "<b>Tue 26-Thu 28 September</b>"
 # heroButtons:
 #  - {permalink: "/program/", text: "Register here"}
 
 # About Block
 aboutTitle: "About ResBaz"
 aboutBlock:
- - {title: "Conference",image: "resbaz_logo.png", text: "ResBaz Sydney 2023 will be a face-to-face event hosted by the University of Sydney on Tuesday 26-Thursday 28 September 2023. The program will feature keynotes, workshops, short talks, demonstrations and lots of opportunities to find out about next gen tech and tools for researchers. Watch this space for program updates and announcements!" }
+ - {title: "Conference",image: "resbaz_logo.png", text: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy at the centre of modern research. Throughout 2023, events will be held at a number of university campuses around the world.</p><p>ResBaz Sydney 2023 will be a face-to-face event hosted by the University of Sydney where researchers from many different disciplines will come together to share their knowledge and develop skills in the latest digital platforms and tools. The program will feature keynotes, workshops, short talks, demonstrations and lots of opportunities to find out about the next generation of technology.</p><p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines. For examples of the sorts of training which ResBaz offers, you can visit the <a href=\"https://resbaz.github.io/resbaz2021/sydney/program/\"> 2021 programme.</a></p><p>Watch this space for program updates and announcements!</p>" }
 
 
 
