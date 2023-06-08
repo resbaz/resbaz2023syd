@@ -66,7 +66,7 @@ heroImage: "usyd-reflection.jpg"
 heroTitle: "<b>ResBaz Sydney 2023</b>"
 eventDate: "<b>Tue 26-Thu 28 September</b>"
 heroButtons:
- - {permalink: "https://docs.google.com/forms/d/1dbudJSN_5iBqa8gJMKRX0JpyopvOhmlgkQwiNk15EaY/", text: "Join the mailing list"}
+ - {link: "https://docs.google.com/forms/d/1dbudJSN_5iBqa8gJMKRX0JpyopvOhmlgkQwiNk15EaY/", text: "Join the mailing list"}
 
 # About Block
 aboutTitle: "About ResBaz"
