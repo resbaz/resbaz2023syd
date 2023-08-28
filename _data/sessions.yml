@@ -1,6 +1,75 @@
 -
-  id: 101
-  title: "Acknowledgement of Country / Welcome to ResBaz Sydney! It Begins!"
+  id: "welcome"
+  title: "Welcome"
   subtype: social
-  description: "What is ResBaz all about? What should a newcomer expect when you rock up to the 2021 Sydney ResBaz? This session will introduce you to the program and explain how to get the best out of your ResBaz week."
-  speakers: [ 1 ]
+  description: "Description of the welcome"
+-
+  id: "d1keynote"
+  title: "Day 1 Keynote"
+  subtype: keynote
+  description: "Day 1 Keynote"
+-
+  id: "d2keynote"
+  title: "Day 2 Keynote"
+  subtype: keynote
+  description: "Day 2 Keynote"
+-
+  id: "d3keynote"
+  title: "Day 3 Keynote"
+  subtype: keynote
+  description: "Day 3 Keynote"
+-
+  id: "ws_edar"
+  title: "Exploratory Data Analysis in R"
+  subtype: workshop
+  description: "Exploratory Data Analysis in R"
+-
+  id: "ws_mlr"
+  title: "Machine Learning in R"
+  subtype: workshop
+  description: "Machine Learning in R"
+-
+  id: "ws_wellbeing"
+  title: "Wellbeing"
+  subtype: workshop
+  description: "Wellbeing"
+  speakers: [ "karyne_ang" ]
+-
+  id: "ws_datastorytelling"
+  title: "Data Storytelling"
+  subtype: workshop
+  description: "Data Storytelling"
+-
+  id: "ws_chatgpt"
+  title: "ChatGPT for Researchers"
+  subtype: workshop
+  description: "ChatGPT for Researchers"
+  speakers: [ "gordon_mcdonald" ]
+-
+  id: "ws_mlpython"
+  title: "Machine Learning in Python"
+  subtype: workshop
+  description: "Machine Learning in Python"
+-
+  id: "ws_cheminformatics"
+  title: "Introduction to Cheminformatics in Python"
+  subtype: workshop
+  description: "Introduction to Cheminformatics in Python"
+  speakers: [ "slade_matthews" ]
+-
+  id: "ws_worklife"
+  title: "Stress and Work/Life Balance in Research"
+  subtype: workshop
+  description: "Stress and Work/Life Balance in Research"
+-
+  id: "ws_git"
+  title: "Git for Collaboration"
+  subtype: workshop
+  description: "Git for Collaboration"
+  speakers: [ "mike_lynch" ]
+-
+  id: "d1s1talk1"
+  title: "Talk/demo"
+  subtype: talk
+  description: "Day 1 Session 1 talk"
+

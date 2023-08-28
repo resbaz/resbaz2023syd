@@ -1,7 +1,27 @@
 - 
-  id: 1
-  name: "Doe"
-  surname: "John"
-  institution: "Intersect"
+  id: "mike_lynch"
+  name: "Mike"
+  surname: "Lynch"
+  institution: "University of Sydney"
+  thumbnailUrl: "placeholder.jpg"
+  bio: "Sample"
+- 
+  id: "karyne_ang"
+  name: "Karyne"
+  surname: "Ang"
+  thumbnailUrl: "placeholder.jpg"
+  bio: "Sample"
+- 
+  id: "gordon_mcdonald"
+  name: "Gordon"
+  surname: "McDonald"
+  institution: "University of Sydney"
+  thumbnailUrl: "placeholder.jpg"
+  bio: "Sample"
+- 
+  id: "slade_matthews"
+  name: "Slade"
+  surname: "Matthews"
+  institution: "University of Sydney"
   thumbnailUrl: "placeholder.jpg"
   bio: "Sample"
