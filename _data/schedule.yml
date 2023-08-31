@@ -10,24 +10,31 @@
     	startTime: "9:00",
     	endTime:   "9:30",
     	sessionIds: [ "welcome" ],
-      cols: [ 5 ]
+      cols: [ 3 ]
     }
     - {
       startTime: "9:30",
       endTime:   "10:30",
-      sessionIds: [ "d1keynote" ],
-      cols: [ 5 ]
+      sessionIds: [ "earthbyte" ],
+      cols: [ 3 ]
     }
     - {
       startTime: "10:30",
       endTime:   "11:00",
       sessionIds: [ "morningtea" ],
-      cols:  [ 5 ]
+      cols: [ 3 ]
     }
     - {
       startTime: "11:00",
+      endTime:   "11:30",
+      sessionIds: [ "cheminformatics", "quantum" ],
+      rows:       [ 2,                  1        ]
+    }
+    - {
+      startTime: "11:30",
       endTime:   "12:30",
-      sessionIds: [ "ws_edar", "", "" ]
+      sessionIds: [ "nci_gadi" ],
+      rows:       [ 1 ]
     }
     - {
       startTime: "12:30",
@@ -36,13 +43,14 @@
     }
     - {
       startTime: "13:30",
-      endTime:   "14:30",
-      sessionIds: [ "", "", "" ]
+      endTime:   "14:00",
+      sessionIds: [ "gale", nci_gadi" ],
+      rows:       [  1,     2         ]
     }
     - {
-      startTime: "14:30",
+      startTime: "14:0",
       endTime:   "15:30",
-      sessionIds: [ "", "", "" ]
+      sessionIds: [ "chatgpt_masterclass" ]
     }
     - {
       startTime: "15:30",
@@ -60,30 +68,29 @@
   tracks: 
     - {title: "One",                color: "#dbc83f"}
     - {title: "Two",                color: "#2b7189"}
-    - {title: "Three",              color: "#583595"}
   timeslots:
     - {
       startTime: "9:00",
       endTime:   "9:30",
       sessionIds: [ "welcome" ],
-      cols: [ 5 ]
+      cols: [ 2 ]
     }
     - {
       startTime: "9:30",
       endTime:   "10:30",
-      sessionIds: [ "d2keynote" ],
-      cols: [ 5 ]
+      sessionIds: [ "wellbeing" ],
+      cols: [ 2 ]
     }
     - {
       startTime: "10:30",
       endTime:   "11:00",
       sessionIds: [ "morningtea" ],
-      cols:  [ 5 ]
+      cols:  [ 2 ]
     }
     - {
       startTime: "11:00",
       endTime:   "12:30",
-      sessionIds: [ "d2s1workshop", "d2s2workshop", "d2s3workshop" ]
+      sessionIds: [ "stress", "git" ]
     }
     - {
       startTime: "12:30",
@@ -91,14 +98,15 @@
       sessionIds: [ "lunch" ]
     }
     - {
-      startTime: "13:30",
-      endTime:   "14:30",
-      sessionIds: [ "d2s1talk1", "d2s2talk1", "d2s3talk1" ]
+      startTime: "13:00",
+      endTime:   "14:00",
+      sessionIds: [ "llms", "ntros" ],
+      rows:       [  2,     1       ]
     }
     - {
-      startTime: "14:30",
-      endTime:   "15:30",
-      sessionIds: [ "d2s1talk2", "d2s2talk2", "d2s3talk2" ]
+      startTime: "14:00",
+      endTime:   "15:00",
+      sessionIds: [ "bioinformaticshpc" ]
     }
     - {
       startTime: "15:30",
@@ -116,30 +124,29 @@
   tracks: 
     - {title: "One",                color: "#dbc83f"}
     - {title: "Two",                color: "#2b7189"}
-    - {title: "Three",              color: "#583595"}
   timeslots:
     - {
       startTime: "9:00",
       endTime:   "9:30",
       sessionIds: [ "welcome" ],
-      cols: [ 5 ]
+      cols: [ 2 ]
     }
     - {
       startTime: "9:30",
       endTime:   "10:30",
       sessionIds: [ "d3keynote" ],
-      cols: [ 5 ]
+      cols: [ 2 ]
     }
     - {
       startTime: "10:30",
       endTime:   "11:00",
       sessionIds: [ "morningtea" ],
-      cols:  [ 5 ]
+      cols:  [ 2 ]
     }
     - {
       startTime: "11:00",
       endTime:   "12:30",
-      sessionIds: [ "d3s1workshop", "d3s2workshop", "d3s3workshop" ]
+      sessionIds: [ "atap", "redcap" ]
     }
     - {
       startTime: "12:30",
@@ -149,20 +156,5 @@
     - {
       startTime: "13:30",
       endTime:   "14:30",
-      sessionIds: [ "d3s1talk1", "d3s2talk1", "d3s3talk1" ]
-    }
-    - {
-      startTime: "14:30",
-      endTime:   "15:30",
-      sessionIds: [ "d3s1talk2", "d3s2talk2", "d3s3talk2" ]
-    }
-    - {
-      startTime: "15:30",
-      endTime:   "16:00",
-      sessionIds: [ "afternoontea" ],
-    }
-    - {
-      startTime: "16:00",
-      endTime: "17:00",
-      sessionIds: [ "community" ]
+      sessionIds: [ "sfl", "data_directory" ]
     }
