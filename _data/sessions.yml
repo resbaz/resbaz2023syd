@@ -2,18 +2,22 @@
   id: welcome
   title: Welcome
   type: break
+  service: true
 -
   id: morningtea
   title: Morning Tea
   type: break
+  service: true
 -
   id: lunch
   title: Lunch
   type: break
+  service: true
 -
   id: afternoontea
   title: Afternoon Tea
   type: break
+  service: true
 -
   id: community
   title: Hacky Hour / Community
@@ -131,7 +135,3 @@
   speakers: [ Michael_Lake ]
   subtype: presentation
   title: The Data Directory Cataloger - It's Just a Simple Python Program
--
-  id: welcome
-  title: Welcome
-  type: break
