@@ -39,28 +39,32 @@
     - {
       startTime: "12:30",
       endTime:   "13:30",
-      sessionIds: [ "lunch" ]
+      sessionIds: [ "lunch" ],
+      cols:       [ 3 ]
     }
     - {
       startTime: "13:30",
       endTime:   "14:00",
-      sessionIds: [ "gale", nci_gadi" ],
-      rows:       [  1,     2         ]
+      sessionIds: [ "gale", "nci_gadi2" ],
+      rows:       [ 1,     2            ]
     }
     - {
-      startTime: "14:0",
+      startTime: "14:00",
       endTime:   "15:30",
-      sessionIds: [ "chatgpt_masterclass" ]
+      sessionIds: [ "languages_showcase", "chatgpt_masterclass" ],
+      rows:       [ 1,                   1                     ]
     }
     - {
       startTime: "15:30",
       endTime:   "16:00",
       sessionIds: [ "afternoontea" ],
+      cols:       [ 3 ]
     }
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [ "community" ]
+      sessionIds: [ "community" ],
+      cols:       [ 3 ]
     }
 - 
   date: "2023-09-27"
@@ -95,7 +99,8 @@
     - {
       startTime: "12:30",
       endTime:   "13:30",
-      sessionIds: [ "lunch" ]
+      sessionIds: [ "lunch" ],
+      cols:       [ 2 ]
     }
     - {
       startTime: "13:00",
@@ -112,11 +117,13 @@
       startTime: "15:30",
       endTime:   "16:00",
       sessionIds: [ "afternoontea" ],
+      cols:       [ 2 ]
     }
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [ "community" ]
+      sessionIds: [ "community" ],
+      cols:       [ 2 ]
     }
 - 
   date: "2023-09-28"
@@ -151,7 +158,8 @@
     - {
       startTime: "12:30",
       endTime:   "13:30",
-      sessionIds: [ "lunch" ]
+      sessionIds: [ "lunch" ],
+      cols: [ 2 ]
     }
     - {
       startTime: "13:30",

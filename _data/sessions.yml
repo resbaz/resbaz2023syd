@@ -21,7 +21,7 @@
 -
   id: community
   title: Hacky Hour / Community
-  type: social
+  subtype: social
 - description: TBA (EarthByte)
   id: earthbyte
   speakers: [ "Dietmar_M\xFCller" ]
@@ -35,7 +35,7 @@
 - description: ""
   id: quantum
   speakers: [ Simon_Yin ]
-  subtype: sponsor_talk
+  subtype: sponsor
   title: Quantum brilliance
 - description: This three-hour hands-on tutorial teaches the fundamentals of using
     Linux and High Performance Computing, using the NCI Gadi HPC system. No prior
@@ -54,11 +54,11 @@
 - description: ""
   id: gale
   speakers: [ Damian_Almeida ]
-  subtype: sponsor_talk
+  subtype: sponsor
   title: Gale digital scholar lab
 - description: Matlab, Python & R
   id: languages_showcase
-  speakers: [ Morgan_Quinn ]
+  speakers: [ Morgan_Quinn, Mike_Lynch ]
   subtype: presentation
   title: Languages showcase
 - description: TBA
