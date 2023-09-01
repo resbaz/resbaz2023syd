@@ -1,6 +1,135 @@
 -
-  id: 101
-  title: "Acknowledgement of Country / Welcome to ResBaz Sydney! It Begins!"
+  id: welcome
+  title: Welcome
+  type: break
+  service: true
+-
+  id: morningtea
+  title: Morning Tea
+  type: break
+  service: true
+-
+  id: lunch
+  title: Lunch
+  type: break
+  service: true
+-
+  id: afternoontea
+  title: Afternoon Tea
+  type: break
+  service: true
+-
+  id: community
+  title: Hacky Hour / Community
   subtype: social
-  description: "What is ResBaz all about? What should a newcomer expect when you rock up to the 2021 Sydney ResBaz? This session will introduce you to the program and explain how to get the best out of your ResBaz week."
-  speakers: [ 1 ]
+- description: TBA (EarthByte)
+  id: earthbyte
+  speakers: [ "Dietmar_M\xFCller" ]
+  subtype: keynote
+  title: EarthByte
+- description: 'TBA  '
+  id: cheminformatics
+  speakers: [ Slade_Matthews ]
+  subtype: workshop
+  title: Introduction to Cheminformatics in Python
+- description: ""
+  id: quantum
+  speakers: [ Simon_Yin ]
+  subtype: sponsor
+  title: Quantum Brilliance
+- description: This three-hour hands-on tutorial teaches the fundamentals of using
+    Linux and High Performance Computing, using the NCI Gadi HPC system. No prior
+    experience is assumed!
+  id: nci_gadi
+  speakers: [ John_Zaitseff ]
+  subtype: workshop
+  title: Linux and HPC on NCI Gadi
+- description: This three-hour hands-on tutorial teaches the fundamentals of using
+    Linux and High Performance Computing, using the NCI Gadi HPC system. No prior
+    experience is assumed!
+  id: nci_gadi2
+  speakers: [ John_Zaitseff ]
+  subtype: workshop
+  title: Linux and HPC on NCI Gadi
+- description: ""
+  id: gale
+  speakers: [ Damian_Almeida ]
+  subtype: sponsor
+  title: Gale Digital Scholar Lab
+- description: Matlab, Python & R
+  id: languages_showcase
+  speakers: [ Morgan_Quinn, Mike_Lynch ]
+  subtype: presentation
+  title: Languages Showcase
+- description: TBA
+  id: chatgpt_masterclass
+  speakers: [ Gordon_McDonald ]
+  subtype: presentation
+  title: ChatGPT
+- description: null
+  id: wellbeing
+  speakers: [ Amy_Cotton, Liz_Stokes ]
+  subtype: keynote
+  title: Researcher Wellbeing and Community Building
+- description: TBA
+  id: stress
+  speakers: [ Amy_Cotton ]
+  subtype: workshop
+  title: Research, Stress and Anxiety
+- description: TBA
+  id: git
+  speakers: [ Mike_Lynch ]
+  subtype: workshop
+  title: Git for Collaboration
+- description: ""
+  id: llms
+  speakers: [ Brian_Ballsun-Stanton ]
+  subtype: workshop
+  title: Large Language Models and Generative AI
+- description: null
+  id: ntros
+  speakers: [ Shannon_Taylor ]
+  subtype: presentation
+  title: Non-traditional Research Outputs
+- description: This presentation delves into an innovative study that establishes
+    a standardized approach following accredited clinical genome testing for genetic
+    diseases. Our research, centered around 499 individuals with genetic heart ailments
+    in Australia, employs advanced bioinformatics analysis and lab-based functional
+    assessments. Notably, we identified additional disease-causing variations in 10
+    previously undiagnosed participants. The results show that a combination of secondary
+    bioinformatics analysis and lab studies can better identify the cause of inherited
+    heart diseases, leading to improved diagnoses and better management for affected
+    individuals and their family members.
+  id: bioinformaticshpc
+  speakers: [ YuChen_Chang ]
+  subtype: presentation
+  title: Bioinformatics for HPC
+- description: TBA
+  id: atap
+  speakers: [ Chao_Sun ]
+  subtype: workshop
+  title: Australian Text Analytics Platform
+- description: TBA
+  id: redcap
+  speakers: [ Cameron_Fong ]
+  subtype: workshop
+  title: ReDCap
+- description: This presentation will explore techniques in Systemic Functional Linguistics
+    (SFL), the study of the relationship between language and its social context,
+    for analysing qualitative data. In particular,this presentation will address how
+    SFL intersects with new advances in generative artificial intelligence and natural
+    language processing (NLP). The examples in this presentation relate to social
+    media data, covering the collection of social media data, the development of social
+    media corpora using corpus linguistic tools, and how manual SFL analyses and automated
+    NLP analyses can intersect. The overall aim of this presentation is to introduce
+    the audience to SFL and provide a number of resources and tools for researchers
+    interested in this particular methodology and its future.
+  id: sfl
+  speakers: [ Olivia_Inwood ]
+  subtype: presentation
+  title: Systemic Functional Linguistics
+- description: TBA
+  id: data_directory
+  speakers: [ Michael_Lake ]
+  subtype: presentation
+  title: The Data Directory Cataloger
