@@ -1,7 +1,81 @@
 - 
-  id: 1
-  name: "Doe"
-  surname: "John"
-  institution: "Intersect"
-  thumbnailUrl: "placeholder.jpg"
-  bio: "Sample"
+  id: "Dietmar_M\xFCller"
+  bio: "Dietmar M\xFCller is Professor of Geophysics at the School of Geosciences,\
+    \ University of Sydney. He received his undergraduate degree from the Univ. of\
+    \ Kiel, Germany, and his PhD in Earth Science from the Scripps Institution of\
+    \ Oceanography, UC San Diego/California in 1993. After joining the University\
+    \ of Sydney he built the EarthByte Research Group, pursuing geodata synthesis\
+    \ and modelling through space and time.  The EarthByte Group's virtual globe software,\
+    \ recently shortlisted for a Eureka Award, has a myriad of applications from providing\
+    \ boundary conditions for high-performance computing Earth evolution models to\
+    \ critical mineral exploration with end-users in over 190 countries.  Dietmar\
+    \ currently leads STELLAR, a multi-year industry project aimed at developing big\
+    \ and complex spatio-temporal data analysis and modelling to support the energy\
+    \ transition and critical mineral exploration exploration. He held an Australian\
+    \ Laureate Fellowship from 2009-2014, and is a Fellow of the Australian Academy\
+    \ of Science and the American Geophysical Union."
+  name: Dietmar
+  surname: "M\xFCller"
+- 
+  id: Slade_Matthews
+  name: Slade
+  surname: Matthews
+- 
+  id: Simon_Yin
+  name: Simon
+  surname: Yin
+-
+  id: John_Zaitseff
+  name: John
+  surname: Zaitseff
+- 
+  id: Damian_Almeida
+  name: Damian
+  surname: Almeida
+- 
+  id: Morgan_Quinn
+  name: Morgan
+  surname: Quinn
+-
+  id: Gordon_McDonald
+  name: Gordon
+  surname: McDonald
+- 
+  id: Liz_Stokes,
+  name: Liz 
+  surname: Stokes
+-
+  id: Amy_Cotton
+  name: Amy
+  surname: Cotton
+-
+  id: Mike_Lynch
+  name: Mike
+  surname: Lynch
+- 
+  id: Brian_Ballsun-Stanton
+  name: Brian
+  surname: Ballsun-Stanton
+- 
+  id: Shannon_Taylor
+  name: Shannon
+  surname: Taylor
+- 
+  id: YuChen_Chang
+  name: YuChen
+  surname: Chang
+-
+  id: Chao_Sun
+  name: Chao
+  surname: Sun
+- 
+  id: Cameron_Fong
+  name: Cameron
+  surname: Fong
+- 
+  id: Olivia_Inwood
+  name: Olivia
+  surname: Inwood
+-
+  id: Michael_Lake
+  name: Michael Lake
