@@ -26,41 +26,41 @@
   id: earthbyte
   speakers: [ "Dietmar_M\xFCller" ]
   subtype: keynote
-  title: Earthbyte software
+  title: EarthByte
 - description: 'TBA  '
   id: cheminformatics
   speakers: [ Slade_Matthews ]
   subtype: workshop
-  title: Introduction to cheminformatics in Python
+  title: Introduction to Cheminformatics in Python
 - description: ""
   id: quantum
   speakers: [ Simon_Yin ]
   subtype: sponsor
-  title: Quantum brilliance
+  title: Quantum Brilliance
 - description: This three-hour hands-on tutorial teaches the fundamentals of using
     Linux and High Performance Computing, using the NCI Gadi HPC system. No prior
     experience is assumed!
   id: nci_gadi
   speakers: [ John_Zaitseff ]
   subtype: workshop
-  title: Linux and HPC on NCI Gadi (1)
+  title: Linux and HPC on NCI Gadi
 - description: This three-hour hands-on tutorial teaches the fundamentals of using
     Linux and High Performance Computing, using the NCI Gadi HPC system. No prior
     experience is assumed!
   id: nci_gadi2
   speakers: [ John_Zaitseff ]
   subtype: workshop
-  title: Linux and HPC on NCI Gadi (2)
+  title: Linux and HPC on NCI Gadi
 - description: ""
   id: gale
   speakers: [ Damian_Almeida ]
   subtype: sponsor
-  title: Gale digital scholar lab
+  title: Gale Digital Scholar Lab
 - description: Matlab, Python & R
   id: languages_showcase
   speakers: [ Morgan_Quinn, Mike_Lynch ]
   subtype: presentation
-  title: Languages showcase
+  title: Languages Showcase
 - description: TBA
   id: chatgpt_masterclass
   speakers: [ Gordon_McDonald ]
@@ -70,29 +70,27 @@
   id: wellbeing
   speakers: [ Amy_Cotton, Liz_Stokes ]
   subtype: keynote
-  title: Researcher wellbeing and community building
+  title: Researcher Wellbeing and Community Building
 - description: TBA
   id: stress
   speakers: [ Amy_Cotton ]
   subtype: workshop
-  title: How to boost and maintain wellness and reduce research associated stress
-    and anxiety
+  title: Research, Stress and Anxiety
 - description: TBA
   id: git
   speakers: [ Mike_Lynch ]
   subtype: workshop
-  title: Intro to Git/ GIT for collaboration
+  title: Git for Collaboration
 - description: ""
   id: llms
   speakers: [ Brian_Ballsun-Stanton ]
   subtype: workshop
-  title: Large language models (LLMS) following the recent advancements in Generative
-    AI
+  title: Large Language Models and Generative AI
 - description: null
   id: ntros
   speakers: [ Shannon_Taylor ]
   subtype: presentation
-  title: NTROS and research data management
+  title: Non-traditional Research Outputs
 - description: This presentation delves into an innovative study that establishes
     a standardized approach following accredited clinical genome testing for genetic
     diseases. Our research, centered around 499 individuals with genetic heart ailments
@@ -105,12 +103,12 @@
   id: bioinformaticshpc
   speakers: [ YuChen_Chang ]
   subtype: presentation
-  title: Bioinformatics HPC
+  title: Bioinformatics for HPC
 - description: TBA
   id: atap
   speakers: [ Chao_Sun ]
   subtype: workshop
-  title: Australian Text Analytics Platform (ATAP)
+  title: Australian Text Analytics Platform
 - description: TBA
   id: redcap
   speakers: [ Cameron_Fong ]
@@ -134,4 +132,4 @@
   id: data_directory
   speakers: [ Michael_Lake ]
   subtype: presentation
-  title: The Data Directory Cataloger - It's Just a Simple Python Program
+  title: The Data Directory Cataloger
