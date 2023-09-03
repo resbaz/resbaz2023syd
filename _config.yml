@@ -22,7 +22,7 @@ siteVerification: "xxxxxxx"
 
 # Workshop registration note
 
-workshopRegisterNote: "<strong>Note</strong> you will need to register separately for this workshop"
+# workshopRegisterNote: "<strong>Note</strong> you will need to register separately for this workshop"
 
 # Organizer Info
 organizerName: "ResBaz Sydney"
@@ -58,7 +58,7 @@ navigationLinks:
 # - {permalink: "/program/", text: "Register here"}
  # - {permalink: "/posters/", text: "Posters"}
 rightNavigationButtons:
- - {link: "http://eepurl.com/is5m7A", text: "Mailing list"}
+ - {link: "https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057", text: "Register"}
  # - {permalink: "/posters/", text: "Posters"}
 
 # Hero Block
@@ -66,7 +66,7 @@ heroImage: "usyd-reflection.jpg"
 heroTitle: "<b>ResBaz Sydney 2023</b>"
 eventDate: "<b>Tue 26-Thu 28 September</b>"
 heroButtons:
- - {link: "http://eepurl.com/is5m7A", text: "Join the mailing list"}
+ - {link: "https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057", text: "Register now!"}
 
 # About Block
 aboutTitle: "About ResBaz"
