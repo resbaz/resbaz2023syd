@@ -1,7 +1,10 @@
 - 
   group: "Sponsors"
   elements: 
-    - {name: "ARDC", link: "https://ardc.edu.au", imageUrl: "ARDC_logo.png" }
+    - {name: "ARDC", link: "https://ardc.edu.au", imageUrl: "ARDC_logo_RGB.jpg" }
+    - {name: "Gale", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "Gale.png" }
+    - {name: "MathWorks", link: "https://au.mathworks.com", imageUrl: "mathworks.svg" }
+    - {name: "Quantum Brilliance", link: "https://quantumbrilliance.com/", imageUrl: "Quantum_Brilliance.svg" }
 - 
   group: "Organisers"
   elements: 
