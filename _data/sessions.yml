@@ -133,3 +133,13 @@
   speakers: [ Michael_Lake ]
   subtype: presentation
   title: The Data Directory Cataloger
+- id: bci
+  title: Applications of Brain Computer Interface
+  description: Brain-Computer Interfaces (BCIs) have an ability to enable seamless human-computer interaction, aiding in tasks like communication, control and cognitive augmentation. In this session, we will explore the better understanding of BCI and its diverse applications.
+  subtype: presentation
+  speakers: [ Avinash_Singh ]
+- description: TBA
+  id: hass_infra
+  speakers: [ Tom_Honeyman ]
+  subtype: presentation
+  title: Co-design the Future of HASS Digital Infrastructure
