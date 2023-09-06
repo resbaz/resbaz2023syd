@@ -6,7 +6,7 @@
     - {name: "MathWorks", link: "https://au.mathworks.com", imageUrl: "MathWorks.svg" }
     - {name: "Quantum Brilliance", link: "https://quantumbrilliance.com/", imageUrl: "Quantum_Brilliance.svg" }
 - 
-  group: "Organisers"
+  group: "Institutions"
   elements: 
     - {name: "University&nbsp;of&nbsp;Sydney", link: "https://www.sydney.edu.au", imageUrl: "USyd_logo.png"}
     - {name: "University&nbsp;of&nbsp;Technology&nbsp;Sydney", link: "http://www.uts.edu.au", imageUrl: "UTS_Logo_Horizontal_Lockup_RGB_BLK.png"}

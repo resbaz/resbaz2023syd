@@ -4,7 +4,6 @@
   tracks: 
     - {title: "One",                color: "#dbc83f"}
     - {title: "Two",                color: "#2b7189"}
-    - {title: "Three",              color: "#583595"}
   timeslots:
     - {
     	startTime: "9:00",
@@ -27,13 +26,13 @@
     - {
       startTime: "11:00",
       endTime:   "11:30",
-      sessionIds: [ "cheminformatics", "quantum" ],
-      rows:       [ 2,                  1        ]
+      sessionIds: [ "quantum",          "nci_gadi" ],
+      rows:       [ 1,                  2          ]
     }
     - {
       startTime: "11:30",
       endTime:   "12:30",
-      sessionIds: [ "nci_gadi" ],
+      sessionIds: [ "chatgpt_masterclass" ],
       rows:       [ 1 ]
     }
     - {
@@ -46,13 +45,19 @@
       startTime: "13:30",
       endTime:   "14:00",
       sessionIds: [ "gale", "nci_gadi2" ],
-      rows:       [ 1,     2            ]
+      rows:       [ 1,     3            ]
     }
     - {
       startTime: "14:00",
+      endTime:   "14:30",
+      sessionIds: [ "cheminformatics" ],
+      rows:       [ 1 ]
+    }
+    - {
+      startTime: "14:30",
       endTime:   "15:30",
-      sessionIds: [ "languages_showcase", "chatgpt_masterclass" ],
-      rows:       [ 1,                   1                     ]
+      sessionIds: [ "languages_showcase" ],
+      rows:       [ 1 ]
     }
     - {
       startTime: "15:30",
@@ -165,4 +170,9 @@
       startTime: "13:30",
       endTime:   "14:30",
       sessionIds: [ "sfl", "data_directory" ]
+    }
+    - {
+      startTime: "14:30",
+      endTime:   "15:30",
+      sessionIds: [ "bci", "hass_infra" ]
     }
