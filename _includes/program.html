@@ -54,7 +54,7 @@
                     {% endif %}
                     {% for session in site.data.sessions %}
                         {% if slot == session.id and session.service == null %}
-                            <td class="slot session-{{session.subtype}}" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}">
+                            <td class="slot session-{{session.subtype}}" colspan="{{ cs }}" rowspan="{{ rs }}" id="session-{{ session.id }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <ul class="slot-speakers">
                                             {% for session_speaker in session.speakers %}
@@ -69,6 +69,12 @@
                                                 {% endfor %}    
                                             {% endfor %}
                                         </ul>
+                                        <div class="slot-topics">
+                                            {% for topic in session.topics %}
+                                            <div class="slot-topic">{{ topic }}</div>
+                                            {% endfor %}
+                                        </div>
+
                             </td>
                         {% elsif slot == session.id and session.service != null %}
                             <td colspan="{{ cs }}" rowspan="{{ rs }}" class="slot session-break" data-slot-detail="{{ session.place }}">
