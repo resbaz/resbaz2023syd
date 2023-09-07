@@ -23,7 +23,11 @@
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
 						</div>
 						{% endif %}
+						{% if session.description == "TBA" or session.description == null or session.description == "" %}
+						<p class="theme-description">--</p>
+						{% else %}
 						<p class="theme-description">{{ session.description }}</p>
+						{% endif %}
 						{% if session.subtype == "workshop" and session.registerUrl != null %}
 						<p class="theme-metadata"><strong>Note:</strong> workshops are not covered by general registration and places for workshops are limited. <strong><a href="{{ session.registerUrl }}" target="_blank">Register your interest here.</a></strong></p>
                         {% endif %}
