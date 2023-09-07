@@ -168,39 +168,43 @@ $small-label-width: 80px;
     background: #eeeeee;
 }
 .session-social {
-    background: #ffffcc;
+    background: #eeeeee;
 }
 .session-keynote {
-    background: #cceecc;
+    background: #ffffff;
 }
 .session-sponsor {
     background: #ffffff;
 }
 
 .session-topic-hpc {
-    border-color: #ffddcc;
+    border-color: #99eeff;
 }
-.session-topic-science {
+.session-topic-computing {
     border-color: #ffddcc;
 }
 .session-topic-programming {
     border-color: #ffddcc;
 }
 .session-topic-ai {
-    border-color: #ffddcc;
+    border-color: #bbccee;
 }
 .session-topic-rdm {
     border-color: #ffddcc;
 }
 .session-topic-wellbeing {
-    border-color: #ffddcc;
+    border-color: #cceecc;
 }
 .session-topic-hass {
-    border-color: #ffddcc;
+    border-color: #cc99cc;
 }
 .session-topic-biomedical {
-    border-color: #ffddcc;
+    border-color: #cceeff;
 }
+.session-topic-sponsor {
+    border-color: #dddd99;
+}
+
 
 .session-topic {
     padding: 0.5rem;
