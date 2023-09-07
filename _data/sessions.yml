@@ -27,19 +27,19 @@
   speakers: [ "Dietmar_M\xFCller" ]
   subtype: keynote
   title: EarthByte
-  topics: [ "Digital Science", "High Performance Computing" ]
+  topics: [ computing, hpc ]
 - description: 'TBA  '
   id: cheminformatics
   speakers: [ Slade_Matthews ]
   subtype: workshop
   title: Introduction to Cheminformatics in Python
-  topics: [ "Digital Science", "High Performance Computing" ]
+  topics: [ computing, hpc ]
 - description: ""
   id: quantum
   speakers: [ Simon_Yin ]
   subtype: sponsor
   title: Quantum Brilliance
-  topics: [ "High Performance Computing", Sponsor ]
+  topics: [ computing, hpc, sponsor ]
 - description: This three-hour hands-on tutorial teaches the fundamentals of using
     Linux and High Performance Computing, using the NCI Gadi HPC system. No prior
     experience is assumed!
@@ -47,7 +47,7 @@
   speakers: [ John_Zaitseff ]
   subtype: workshop
   title: Linux and HPC on NCI Gadi
-  topics: [ "High Performance Computing" ]
+  topics: [ computing, hpc ]
 - description: This three-hour hands-on tutorial teaches the fundamentals of using
     Linux and High Performance Computing, using the NCI Gadi HPC system. No prior
     experience is assumed!
@@ -55,55 +55,55 @@
   speakers: [ John_Zaitseff ]
   subtype: workshop
   title: Linux and HPC on NCI Gadi
-  topics: [ "High Performance Computing" ]
+  topics: [ computing, hpc ]
 - description: ""
   id: gale
   speakers: [ Damian_Almeida ]
   subtype: sponsor
   title: Gale Digital Scholar Lab
-  topics: [ "Humanities and Social Sciences", "Sponsor" ]
+  topics: [ hass, sponsor ]
 - description: Matlab, Python & R
   id: languages_showcase
   speakers: [ Morgan_Quinn, Mike_Lynch ]
   subtype: presentation
   title: Languages Showcase
-  topics: [ Programming ]
+  topics: [ computing ]
 - description: TBA
   id: chatgpt_masterclass
   speakers: [ Gordon_McDonald ]
   subtype: presentation
   title: ChatGPT
-  topics: [ AI ]
+  topics: [ ai ]
 - description: null
   id: wellbeing
   speakers: [ Amy_Cotton, Liz_Stokes ]
   subtype: keynote
   title: "Panel: Researcher Wellbeing and Community Building"
-  topics: [ "Wellbeing and Community" ]
+  topics: [ wellbeing ]
 - description: TBA
   id: stress
   speakers: [ Amy_Cotton ]
   subtype: workshop
   title: Research, Stress and Anxiety
-  topics: [ "Wellbeing and Community" ]
+  topics: [ wellbeing ]
 - description: TBA
   id: git
   speakers: [ Mike_Lynch ]
   subtype: workshop
   title: Git for Collaboration
-  topics: [ Programming, "Wellbeing and Community" ]
+  topics: [ computing, wellbeing ]
 - description: ""
   id: llms
   speakers: [ Brian_Ballsun-Stanton ]
   subtype: workshop
   title: Large Language Models and Generative AI
-  topics: [ AI ]
+  topics: [ ai ]
 - description: null
   id: ntros
   speakers: [ Shannon_Taylor ]
   subtype: presentation
   title: Non-traditional Research Outputs
-  topics: [ "Humanities and Social Sciences", "Research Data Management"  ]
+  topics: [ hass, rdm  ]
 - description: This presentation delves into an innovative study that establishes
     a standardized approach following accredited clinical genome testing for genetic
     diseases. Our research, centered around 499 individuals with genetic heart ailments
@@ -117,19 +117,19 @@
   speakers: [ YuChen_Chang ]
   subtype: presentation
   title: Bioinformatics for HPC
-  topics: [ Biomedical ]
+  topics: [ biomedical ]
 - description: TBA
   id: atap
   speakers: [ Chao_Sun ]
   subtype: workshop
   title: Australian Text Analytics Platform
-  topics: [ "Humanities and Social Sciences" ]
+  topics: [ computing, hass ]
 - description: TBA
   id: redcap
   speakers: [ Cameron_Fong ]
   subtype: workshop
   title: ReDCap
-  topics: [ "Biomedical", "Research Data Management" ]
+  topics: [ biomedical, rdm ]
 - description: This presentation will explore techniques in Systemic Functional Linguistics
     (SFL), the study of the relationship between language and its social context,
     for analysing qualitative data. In particular,this presentation will address how
@@ -144,22 +144,22 @@
   speakers: [ Olivia_Inwood ]
   subtype: presentation
   title: Systemic Functional Linguistics
-  topics: [ "Humanities and Social Sciences" ]
+  topics: [ computing, hass ]
 - description: TBA
   id: data_directory
   speakers: [ Michael_Lake ]
   subtype: presentation
   title: The Data Directory Cataloger
-  topics: [ "Research Data Management", "High Performance Computing" ]
+  topics: [ rdm, hpc ]
 - id: bci
   title: Applications of Brain Computer Interface
   description: Brain-Computer Interfaces (BCIs) have an ability to enable seamless human-computer interaction, aiding in tasks like communication, control and cognitive augmentation. In this session, we will explore the better understanding of BCI and its diverse applications.
   subtype: presentation
   speakers: [ Avinash_Singh ]
-  topics: [ Biomedical ]
+  topics: [ biomedical ]
 - description: TBA
   id: hass_infra
   speakers: [ Tom_Honeyman ]
   subtype: presentation
   title: Co-design the Future of HASS Digital Infrastructure
-  topics: [ "Humanities and Social Sciences" ]
+  topics: [ computing, hass ]

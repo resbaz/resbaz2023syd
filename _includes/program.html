@@ -69,9 +69,13 @@
                                                 {% endfor %}    
                                             {% endfor %}
                                         </ul>
-                                        <div class="slot-topics">
-                                            {% for topic in session.topics %}
-                                            <div class="slot-topic">{{ topic }}</div>
+                                        <div class="session-topics">
+                                            {% for topic in site.data.topics %}
+                                                {% for stopic in session.topics %}
+                                                    {% if topic.id == stopic %}
+                                                    <div class="session-topic session-topic-{{ topic.id }}">{{ topic.name }}</div>
+                                                    {% endif %}
+                                                {% endfor %}
                                             {% endfor %}
                                         </div>
 

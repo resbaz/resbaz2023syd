@@ -1,0 +1,24 @@
+- 
+  id: hpc
+  name: "HPC"
+-
+  id:	ai
+  name: "AI and Large Language Models"
+-
+  id: science
+  name: "Research Computing"
+-
+  id: hass
+  name: "Humanities and Social Sciences"
+-
+  id: rdm
+  name: "Research Data Management"
+-
+  id: wellbeing
+  name: "Community and Wellbeing"
+-
+  id: biomedical
+  name: "Biomedical and Bioinformatics"
+-
+  id: sponsor
+  name: "Sponsor"
