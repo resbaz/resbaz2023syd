@@ -156,10 +156,10 @@ $small-label-width: 80px;
     }
 }
 .session-presentation {
-    background: #bbccee;
+    background: #ffffff;
 }
 .session-workshop {
-    background: #ffddcc;
+    background: #ffffff;
 }
 .session-tbc {
     background: #ffffff;
@@ -168,14 +168,52 @@ $small-label-width: 80px;
     background: #eeeeee;
 }
 .session-social {
-    background: #ffffcc;
+    background: #eeeeee;
 }
 .session-keynote {
-    background: #cceecc;
+    background: #ffffff;
 }
 .session-sponsor {
-    background: #cceeff;
+    background: #ffffff;
 }
+
+.session-topic-hpc {
+    border-color: #99eeff;
+}
+.session-topic-computing {
+    border-color: #ffddcc;
+}
+.session-topic-programming {
+    border-color: #ffddcc;
+}
+.session-topic-ai {
+    border-color: #bbccee;
+}
+.session-topic-rdm {
+    border-color: #ffddcc;
+}
+.session-topic-wellbeing {
+    border-color: #cceecc;
+}
+.session-topic-hass {
+    border-color: #cc99cc;
+}
+.session-topic-biomedical {
+    border-color: #cceeff;
+}
+.session-topic-sponsor {
+    border-color: #dddd99;
+}
+
+
+.session-topic {
+    padding: 0.5rem;
+    display: inline-block;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 3px;
+}
+
 .color-line {
     height: 5px;
     position: absolute;
