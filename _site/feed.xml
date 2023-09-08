@@ -7,94 +7,34 @@
     <atom:link href="http://localhost:4000/resbaz2023syd/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Conference posters, but better!</title>
-        <description>&lt;h4 id=&quot;what-is-this-poster-business&quot;&gt;What is this poster business?&lt;/h4&gt;
-&lt;p&gt;As a multi-disciplinary festival of digital research tools and new methods in open research, we know it’s likely our participants won’t know each other. So we try to make this easy, by
-encourage everyone involved to make a poster talking about the digital tools you use in your work. Let’s face it, after multiple lockdowns, our social skills are probably a little rusty too.&lt;/p&gt;
+        <title>ResBaz 2023</title>
+        <description>&lt;p&gt;You might have heard about it by word of mouth, through a poster or even an
+email. But you’re not quite sure exactly what ResBaz is. Is it about Python?
+Quantum computing? Wellbeing? Cheap food? Well, ResBaz is a three-day,
+worldwide, low-cost festival that focuses on promoting digital literacy
+emerging at the centre of modern research. It is organised by universities
+across the globe and has been running since 2015 as a way for researchers from
+different universities to share their knowledge and expertise.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-do-i-do-it&quot;&gt;How do I do it?&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1SBVHuiI5zEDDl6roP-38xzW15lMoT9bg59lxXvA0M0k/edit#slide=id.gfd030064e4_0_15&quot;&gt;Use our simple template&lt;/a&gt; to share your expertise and your favourite software tools for research. Tell us about your research interests and maybe this can help to find future collaborators? Maybe you want someone to commiserate with about your least favourite piece of software? We also set aside space for you to share future learning goals. If there’s something you’ve always wanted to learn, let us know! Chances are someone across our community will have some advice and guidance.&lt;/p&gt;
+&lt;p&gt;Do you have trouble with Python? High performance computing piques your
+interest? Or maybe your research is getting you down and you need to get tips
+on how to manage stress? ResBaz touches on all of this offering keynotes, talks
+and workshops for researchers at any level but especially Masters by Research
+students, PhD students and early career researchers. Learn from experts in the
+industry and improve your understanding of one of the myriad of offerings from
+ResBaz.&lt;/p&gt;
 
-&lt;h4 id=&quot;ok-ive-made-my-poster-what-now&quot;&gt;Ok I’ve made my poster, what now?&lt;/h4&gt;
-&lt;p&gt;If our event was f2f, we’d be printing these out on paper and sending you around with a pen and stack of sticky notes to comment on each others’ posters. 
-Instead, we’re hosting a poster gallery in the daily gathertown space. Be sure to &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2021-tickets-169068026017&quot;&gt;register for ResBaz&lt;/a&gt;, and we’ll send you the gathertown link where you can check out each other’s posters.&lt;/p&gt;
+&lt;p&gt;Whilst RezBas is about learning and challenging yourself, it’s also about
+building community. Research should not be siloed, but apart of an
+ever-connecting network. ResBaz seeks to combat the loneliness that plagues the
+academic community by offering face-to-face talks, workshops and  hacky hours
+that encourage connections with people within the research community. Come and
+join us for ResBaz 2023! We’re sure you’ll have fun and learn something new
+too.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 Nov 2021 11:00:00 +1100</pubDate>
-        <link>http://localhost:4000/resbaz2023syd/news/posters</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/posters</guid>
-      </item>
-    
-      <item>
-        <title>Sign up for ResBaz Workshops!</title>
-        <description>&lt;h4 id=&quot;14-workshop-3-days&quot;&gt;14 workshop, 3 days&lt;/h4&gt;
-&lt;p&gt;Since ResBaz Sydney is online, our workshops are all short and 2 hours or under. No zoom fatigue here! You can choose across the streams or stick to one track, we’re pretty flexible. We have an impressive array of programming languages, data capture, analysis and survey tools across our &lt;a href=&quot;https://resbaz.github.io/resbaz2021/sydney/program/&quot;&gt;program&lt;/a&gt;. We cater to a generalist research audience, and highlight where some tools are more appropriate for different research domains. Consider our workshops as taster sessions: you probably won’t become an instant expert, but you will have a stronger idea about which tools will better suit your research.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-waitlists-for-workshops&quot;&gt;Why waitlists for workshops?&lt;/h4&gt;
-&lt;p&gt;We’re a local volunteer collaboration between institutions who are based in Sydney, so it’s important we prioritise our respective researcher communities. Using a waitlist helps us share participation across our universities.&lt;br /&gt;
-Opening up to broader participation (for example, across NSW) is a great opportunity of online workshops. However these become less interactive the more people attend. We’ve capped our workshop audiences to ensure participants can actually participate and interact with our instructors.&lt;/p&gt;
-
-&lt;h4 id=&quot;great-where-do-i-sign-up&quot;&gt;Great! Where do I sign up?&lt;/h4&gt;
-&lt;p&gt;Use the links in the &lt;a href=&quot;https://resbaz.github.io/resbaz2021/sydney/program/&quot;&gt;program&lt;/a&gt; to sign up to individual workshops. We’ll release tickets in early November. Make sure you use the same email address for all workshops and don’t forget the general registration ticket!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Oct 2021 11:00:00 +1100</pubDate>
-        <link>http://localhost:4000/resbaz2023syd/news/ResBaz-Workshops</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/ResBaz-Workshops</guid>
-      </item>
-    
-      <item>
-        <title>Registrations are open! Join us!</title>
-        <description>&lt;p&gt;Woohoo! We are so proud to present our three day online program of talks, workshops and demonstrations for ResBaz Sydney 23-25 November 2021.&lt;/p&gt;
-
-&lt;p&gt;Our program has a dizzying array of informative sessions on programming tools, tips and tricks, compute platforms and practical guides to working with surveys and data collection.&lt;/p&gt;
-
-&lt;p&gt;ResBaz is not a typical academic conference. Instead of keynotes we invite people to share a keystory on a topic they’re passionate about and what got them there. The keystories start on Tuesday with Dr Taren Sanders and Prof Philip Parker (ACU) sharing how they do reproducible research, with a practical discussion of workflows and tools that you can use too. On Wednesday we have a double feature, starting with Dr Anusuriya Devaraju (UQ) on simple steps to effective scientific data sharing. Later in the day we will join QLD ResBaz for their livestream keystory A/Prof Tim Sherratt talking about his GLAM Workbench, and building tools to explore humanities datasets. Our final keystory on Thursday is Prof Raina MacIntyre (UNSW) from Epiwatch talking about using Artificial Intelligence to prevent the next pandemic.&lt;/p&gt;
-
-&lt;p&gt;Registration for ResBaz is slightly tricky, so we’ve staggered the process.&lt;/p&gt;
-
-&lt;p&gt;Step 1. We encourage all participants to &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2021-tickets-169068026017&quot;&gt;register for a general ticket&lt;/a&gt;, which will give you access to all the keystories, talks and practical demonstration, across all five streams. So you can dip in an out across the whole program. These sessions have a pretty large capacity, thanks to our awesome partner &lt;a href=&quot;https://www.aarnet.edu.au/&quot;&gt;AARNET&lt;/a&gt; who is providing the zoom.&lt;/p&gt;
-
-&lt;p&gt;Step 2. Sign up for individual workshops. This opens on Monday 18 October. Workshop seats are limited. In order to balance participation across our collaborating institutions, everyone joins a waitlist for each workshop. Tickets will be released a couple of weeks before ResBaz starts.&lt;/p&gt;
-
-&lt;p&gt;So what are you waiting for? Check out the &lt;a href=&quot;https://resbaz.github.io/resbaz2021/sydney/program/&quot;&gt;program&lt;/a&gt; and &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2021-tickets-169068026017&quot;&gt;join us&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Oct 2021 11:00:00 +1100</pubDate>
-        <link>http://localhost:4000/resbaz2023syd/news/registrations-open</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/registrations-open</guid>
-      </item>
-    
-      <item>
-        <title>What is a Hacky Hour and why do you have three?</title>
-        <description>&lt;p&gt;A &lt;a href=&quot;https://github.com/amandamiotto/HackyHourHandbook/blob/master/Introduction.md&quot;&gt;hacky hour&lt;/a&gt; is an informal drop in space where people can rock up and get help with specialist tech and coding support. It’s a much more human oriented dynamic than filling out a ticket at a help desk, and in the before times, was often hosted by IT, eResearch or Library teams at a cafe or bar on campus. There’s something about the outdoor (or at the very least, out of the office) vibe and a smattering of laptops emblazoned with software stickers and coffee cups that is a lot less formidable than approaching the IT unit with the ominous hum of servers running in the background. Often software and data skills trainers would run a hacky hour to support their workshop program. Working on a problem in real time is better than a series of back and forth emails or tickets, no?&lt;/p&gt;
-
-&lt;p&gt;With the pandemic, hacky hours moved online, into zoom. Some even changed their name, because apparently not everyone wants to be a hacker. Maybe this will change with the new Matrix movie coming out. Also, I don’t even know if people still play hacky sack. It was a popular pastime at universities before smartphones were invented. Like hacky sack, hacky hours are designed for receiving problems and throwing them around until a solution is found. Sometimes the solution is ‘oh! It was the comma all along!’ Other times researchers drop in to say “I did everything the way we did it in the workshop but it is borked. Can you please help?” Some researchers come back regularly, to share progress and things they’ve made since. It’s really good then when they can help new novices.&lt;/p&gt;
-
-&lt;p&gt;ResBaz is actually brought to you by people who run hacky hours on the regular, so we wanted to include this in our program. Each afternoon at ResBaz from 3-4pm AEDT, we’ll open the doors to our &lt;a href=&quot;https://gather.town/app&quot;&gt;gather.town&lt;/a&gt; space so you can join in, and rock up to any of the hacky hour tables. Gather.town is a very cute interactive platform that looks like you’re in an 8-bit video game, inside a 1980s style conference venue. You can customise your avatar and walk around a map. When you’re near other people, gather turns on your video and mic so you can chat. Like a video game/conference IRL, you can choose where to go, no need for any breakout room choreography! We hope it will be a fun way to end each day, where you can meet other ResBazzers, chat about favourite tools, follow up with an interesting speaker, and ask the friendly support folk to troubleshoot your code.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Oct 2021 11:00:00 +1100</pubDate>
-        <link>http://localhost:4000/resbaz2023syd/news/hacky-hour</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/hacky-hour</guid>
-      </item>
-    
-      <item>
-        <title>Eep it&apos;s my first time teaching or presenting  online! </title>
-        <description>&lt;p&gt;Over the last couple of years we’ve become used to doing everything online and in zoom. As virtual workshops have become normal, we realise that translating talks, demonstrations and workshops to a virtual medium requires a bit more preparation than simply uploading your slides and sharing your screen. Equally, the participant experience of teaching and learning online can be remarkably isolating.&lt;/p&gt;
-
-&lt;p&gt;This year we’re inviting ResBaz speakers, instructors and volunteers to attend the inaugural Australian Carpentry Connect community event before rocking up to ResBaz. &lt;a href=&quot;https://carpentries.org/&quot;&gt;The Carpentries&lt;/a&gt; is a nonprofit organization that teaches software engineering and data science skills to researchers through instructional workshops. It’s a global community of researchers who share a passion for good teaching practices and peer learning. Carpentries  programming workshops have formed the backbone of ResBaz since we started - we dream the same dream.&lt;/p&gt;
-
-&lt;p&gt;We think that the best way to prepare you for contributing to ResBaz is to introduce you to this friendly community, share useful tips and tricks, and get to know a few familiar faces ahead of the main event. &lt;a href=&quot;https://www.eventbrite.com.au/e/carpentry-connect-australia-tickets-170400229674&quot;&gt;Please sign up here.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Sep 2021 10:00:00 +1000</pubDate>
-        <link>http://localhost:4000/resbaz2023syd/news/teaching-online</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/teaching-online</guid>
-      </item>
-    
-      <item>
-        <title>ResBaz Sydney 2021</title>
-        <description>&lt;p&gt;And we’re live! Despite the current lockdown, the team at ResBaz Sydney are very excited to be announcing our intentions to host a virtual ResBaz at the end of this year. Right now, we’re working on our program structure to make sure we retain the best of ResBaz community while running a virtual event. We’ve had a year of ‘pivoting online’ and ‘you’re on mute’ so honestly, the only way is up. Once our social infrastructure is confirmed, we’ll be putting out the word for volunteers to join in the fun. Submit a talk, offer to run a workshop, host a discussion panel or join us as a ResBazador!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Jun 2021 18:00:00 +1000</pubDate>
-        <link>http://localhost:4000/resbaz2023syd/news/live</link>
-        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/live</guid>
+        <pubDate>Thu, 07 Sep 2023 23:00:00 +1000</pubDate>
+        <link>http://localhost:4000/resbaz2023syd/news/ResBaz-2023</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/ResBaz-2023</guid>
       </item>
     
   </channel>
