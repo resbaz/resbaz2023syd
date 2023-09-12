@@ -5,6 +5,10 @@
 <lastmod>2023-09-07T23:00:00+10:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/resbaz2023syd/news/HPC-2023</loc>
+<lastmod>2023-09-11T23:00:00+10:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/resbaz2023syd/about/</loc>
 </url>
 <url>
@@ -17,7 +21,7 @@
 <loc>http://localhost:4000/resbaz2023syd/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resbaz2023syd/logistics/</loc>
+<loc>http://localhost:4000/resbaz2023syd/location/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/resbaz2023syd/news/</loc>
