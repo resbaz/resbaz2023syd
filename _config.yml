@@ -32,6 +32,11 @@ organizerEmail: "resbazsyd@gmail.com"
 organizerLogo: "/img/seo/ResBaz_transparent_cropped.png"
 organizerLink: "https://resbaz.github.io/resbaz2023syd"
 
+# location
+locationBlockTitle: Venue
+eventLocationName: New Law Building Annex
+eventStreetAddress: The University of Sydney
+eventAddressLocality: Camperdown NSW 2050
 
 # Head
 metaKeywords: "event, research, library, digital, skills, eresearch"
@@ -50,14 +55,15 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/news/", text: "News"}
- # - {permalink: "/posters/", text: "Posters"}
  - {permalink: "/program/", text: "Program"}
+ - {permalink: "/location/", text: "Location"}
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/code/", text: "Code of Conduct"}
 #bottomNavigationLinks:
 # - {permalink: "/program/", text: "Register here"}
  # - {permalink: "/posters/", text: "Posters"}
 rightNavigationButtons:
+ - {permalink: "/program/", text: "Program"}
  - {link: "https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057", text: "Register"}
  # - {permalink: "/posters/", text: "Posters"}
 
@@ -66,6 +72,7 @@ heroImage: "usyd-reflection.jpg"
 heroTitle: "<b>ResBaz Sydney 2023</b>"
 eventDate: "<b>Tue 26-Thu 28 September</b>"
 heroButtons:
+ - {permalink: "/program/", text: "Program"}
  - {link: "https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057", text: "Register now!"}
 
 # About Block

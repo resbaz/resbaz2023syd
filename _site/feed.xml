@@ -7,6 +7,23 @@
     <atom:link href="http://localhost:4000/resbaz2023syd/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>High Performance Computing</title>
+        <description>&lt;p&gt;Are you curious about high performance computing? What about Quantum Computers? Earthbytes or want to learn the basics of Linux? At ResBaz we have multiple events that cater to your HPC queries and curiosities.&lt;/p&gt;
+
+&lt;p&gt;So what is high performance computing? High performance computing is essentially the use of supercomputers and computer clusters to solve advanced computation problems. High performance computing involves integrating systems administration and parallel programming that combines digital electronics, computer architecture, system software, programming languages, algorithms and computational techniques.&lt;/p&gt;
+
+&lt;p&gt;Dietmar Müller will be introducing EarthByte, an eGeoscience collaboration between several Australian universities, internation centres of excellence and industry partners, which has a myriad of applications from providing boundary conditions for high-performance computing Earth evolution models to critical mineral exploration with end-users in over 190 countries.&lt;/p&gt;
+
+&lt;p&gt;Learn about Quantum Brilliance which seeks to change the capability of quantum computing. Quantum Brilliance computers creates an opportunity for mass deployment of huge clusters of quantum accelerators, which will be capable of addressing complex systems of systems such as molecular dynamics, leading to anticipated advances in battery technology, drug discovery and many more.&lt;/p&gt;
+
+&lt;p&gt;You can also get hands-on experience in Linux and high-performance computing, using the NCI Gadi HPC system. Each session touches on another aspect of high-performance computing. For more presentations please see our program &lt;a href=&quot;/resbaz2023syd/program/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2023 23:00:00 +1000</pubDate>
+        <link>http://localhost:4000/resbaz2023syd/news/HPC-2023</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/HPC-2023</guid>
+      </item>
+    
+      <item>
         <title>ResBaz 2023</title>
         <description>&lt;p&gt;You might have heard about it by word of mouth, through a poster or even an
 email. But you’re not quite sure exactly what ResBaz is. Is it about Python?
