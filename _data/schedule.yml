@@ -8,7 +8,7 @@
     - {
     	startTime: "9:00",
     	endTime:   "9:30",
-    	sessionIds: [ "welcome" ],
+    	sessionIds: [ "opening" ],
       cols: [ 3 ]
     }
     - {
@@ -146,7 +146,7 @@
     - {
       startTime: "9:30",
       endTime:   "10:30",
-      sessionIds: [ "d3keynote" ],
+      sessionIds: [ "three_minute" ],
       cols: [ 2 ]
     }
     - {
