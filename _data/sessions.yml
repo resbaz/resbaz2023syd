@@ -22,11 +22,16 @@
   id: community
   title: Hacky Hour / Community
   subtype: social
+-
+  id: opening
+  title: Opening Address
+  subtype: keynote
+  speakers: [ Simon_Ringer ]
 - description: TBA
   id: earthbyte
   speakers: [ "Dietmar_M\xFCller" ]
   subtype: keynote
-  title: EarthByte
+  title: EarthByte - 2023 finalists in Eureka Prize for Excellence in Research Software
   topics: [ computing, hpc ]
 - 
   id: cheminformatics
@@ -75,11 +80,11 @@
   subtype: presentation
   title: ChatGPT
   topics: [ ai ]
-- description: TBA
+- description: This panel explores the critical ways that Community can bolster personal wellbeing on the often grueling and isolating PhD journey. Our special guest experts will share lived experiences and advice on both building and accessing community, online and offline.
   id: wellbeing
-  speakers: [ Amy_Cotton, Liz_Stokes ]
+  speakers: [ Venessa_Paech, Liz_Stokes, Amy_Cotton, Hillary Davis, Arash Araghi ]
   subtype: keynote
-  title: "Panel: Researcher Wellbeing and Community Building"
+  title: "Panel: Building & Accessing Community in the PhD journey"
   topics: [ wellbeing ]
 - description: TBA
   id: stress
@@ -164,3 +169,6 @@
   subtype: presentation
   title: Co-design the Future of HASS Digital Infrastructure
   topics: [ hass ]
+- id: three_minute
+  title: Showcase of Three-Minute Thesis 2023 Entrants
+  description: Researchers from multiple institutions will present their entries in 2023's Three-Minute Thesis competition.
