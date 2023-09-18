@@ -52,6 +52,11 @@
     of psychedelic activity based on the structure-activity relationship found in
     a set of phenethylamine molecules."
   topics: [ computing ]
+- id: ai_matlab
+  title: Low-Code AI with MATLAB
+  description: <p><strong>Overview</strong></p> <p>This seminar will show you real-world examples how MATLAB makes AI easy and accessible with tools such as interactive apps generating MATLAB code. MATLAB provides AI capabilities similar to those of dedicated AI tools like scikit-learn or TensorFlow—and more importantly, only MATLAB lets you integrate AI into the complete workflow for developing a fully engineered system, from data preparation to deployment.</p> <p><strong>Highlights</strong></p><ul><li>Generate MATLAB code using Apps comparing different machine learning methods</li><li>Graphically create, edit, and train Deep Learning models</li><li>Use labeller apps to automate your data labelling workflow</li><li>Deploy your models to production in a variety of formats</li></ul>
+  speakers: [ Emmanuel_Blanchard ]
+  topics: [ ai, computing ]
 - description: TBA
   id: quantum
   speakers: [ Simon_Yin ]
@@ -211,7 +216,7 @@
   speakers: [ Tom_Honeyman ]
   subtype: presentation
   title: Co-design the Future of HASS Digital Infrastructure
-  topics: [ hass ]
+  topics: [ hass, wellbeing ]
 - id: three_minute
   title: Showcase of Three-Minute Thesis 2023 Entrants
   description: Researchers from multiple institutions will present their entries in 2023's Three-Minute Thesis competition.
