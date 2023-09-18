@@ -55,8 +55,14 @@
     }
     - {
       startTime: "14:30",
+      endTime:   "15:00",
+      sessionIds: [ "empty" ],
+      rows:       [ 2 ]
+    }
+    - {
+      startTime: "15:00",
       endTime:   "15:30",
-      sessionIds: [ "languages_showcase" ],
+      sessionIds: [ "empty" ],
       rows:       [ 1 ]
     }
     - {
@@ -98,8 +104,13 @@
     }
     - {
       startTime: "11:00",
-      endTime:   "12:30",
+      endTime:   "12:00",
       sessionIds: [ "stress", "git" ]
+    }
+    - {
+      startTime: "12:00",
+      endTime:   "12:30",
+      sessionIds: [ "empty" ]
     }
     - {
       startTime: "12:30",
@@ -108,14 +119,14 @@
       cols:       [ 2 ]
     }
     - {
-      startTime: "13:00",
-      endTime:   "14:00",
+      startTime: "13:30",
+      endTime:   "14:30",
       sessionIds: [ "llms", "ntros" ],
       rows:       [  2,     1       ]
     }
     - {
-      startTime: "14:00",
-      endTime:   "15:00",
+      startTime: "14:30",
+      endTime:   "15:30",
       sessionIds: [ "bioinformaticshpc" ]
     }
     - {
@@ -157,8 +168,14 @@
     }
     - {
       startTime: "11:00",
+      endTime:   "12:00",
+      sessionIds: [ "atap", "redcap" ],
+      rows: [ 2, 1 ]
+    }
+    - {
+      startTime: "12:00",
       endTime:   "12:30",
-      sessionIds: [ "atap", "redcap" ]
+      sessionIds: [ "data_directory" ]
     }
     - {
       startTime: "12:30",
@@ -169,7 +186,7 @@
     - {
       startTime: "13:30",
       endTime:   "14:30",
-      sessionIds: [ "sfl", "data_directory" ]
+      sessionIds: [ "sfl", "business_ai" ]
     }
     - {
       startTime: "14:30",

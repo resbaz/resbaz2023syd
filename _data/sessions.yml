@@ -23,15 +23,18 @@
   title: Hacky Hour / Community
   subtype: social
 -
+  id: empty
+  subtype: presentation
+-
   id: opening
   title: Opening Address
   subtype: keynote
   speakers: [ Simon_Ringer ]
-- description: TBA
+- description: EarthByte - 2023 finalists in Eureka Prize for Excellence in Research Software
   id: earthbyte
   speakers: [ "Dietmar_M\xFCller" ]
   subtype: keynote
-  title: EarthByte - 2023 finalists in Eureka Prize for Excellence in Research Software
+  title: Building a Virtual Earth
   topics: [ computing, hpc ]
 - 
   id: cheminformatics
@@ -84,7 +87,7 @@
   id: wellbeing
   speakers: [ Venessa_Paech, Liz_Stokes, Amy_Cotton, Hillary Davis, Arash Araghi ]
   subtype: keynote
-  title: "Panel: Building & Accessing Community in the PhD journey"
+  title: "Panel: Building & Accessing Community in the HDR journey"
   topics: [ wellbeing ]
 - description: TBA
   id: stress
@@ -120,7 +123,7 @@
     heart diseases, leading to improved diagnoses and better management for affected
     individuals and their family members.
   id: bioinformaticshpc
-  speakers: [ YuChen_Chang ]
+  speakers: [ Yuchen_Chang ]
   subtype: presentation
   title: Bioinformatics for HPC
   topics: [ biomedical ]
@@ -155,7 +158,7 @@
   id: data_directory
   speakers: [ Michael_Lake ]
   subtype: presentation
-  title: The Data Directory Cataloger
+  title: The Data Directory Cataloger - it's Just a Simple Python Program
   topics: [ rdm, hpc ]
 - id: bci
   title: Applications of Brain Computer Interface
@@ -172,3 +175,9 @@
 - id: three_minute
   title: Showcase of Three-Minute Thesis 2023 Entrants
   description: Researchers from multiple institutions will present their entries in 2023's Three-Minute Thesis competition.
+- id: business_ai
+  title: Using Generative AI for Personal Productivity
+  description: TBA
+  speakers: [ Kai_Riemer ]
+  topics: [ ai, wellbeing ]
+
