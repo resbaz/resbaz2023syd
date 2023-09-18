@@ -49,6 +49,7 @@ $small-label-width: 80px;
 }
 .timeslot {
     background: #fff;
+    width: 5%;
     border-top: $schedule-border;
     border-left: $schedule-border;
     &:last-child {
@@ -144,6 +145,7 @@ $small-label-width: 80px;
 .slot {
     @extend .track-header-slot;
     padding: 20px;
+    width: 45%;
     cursor: pointer;
     @media (max-width: 767px) {
         border-top: $schedule-border;
