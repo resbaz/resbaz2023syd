@@ -16,83 +16,123 @@
     \ of Science and the American Geophysical Union."
   name: Dietmar
   surname: "M\xFCller"
+  institution: University of Sydney
+  honorific: Professor
 -
   id: Simon_Ringer
   name: Simon
   surname: Ringer
   honorific: Professor
-  bio: Pro-Vice-Chancellor (Research Infrastructure), The University of Sydney
+  bio: Pro-Vice-Chancellor (Research Infrastructure)
+  institution: University of Sydney
 - 
   id: Slade_Matthews
   name: Slade
   surname: Matthews
   bio: Slade Matthews is a researcher and educator whose career has been marked by his dedication to the intersection of biomedical science and machine learning. He is committed to fostering mathematical literacy among students and has made contributions to both research and education in the field. He holds two teaching awards for university teaching. Slade's primary research focus centres on the fusion of experimental design, statistical analysis, and machine learning to investigate biomedical problems, especially in toxicology. He has published 43 publications in peer-reviewed journals and has been cited 1275 times.
+  institution: University of Sydney
+  honorific: Dr
+  thumbnailUrl: Slade_Matthews.jpg
 - 
   id: Simon_Yin
   name: Simon
   surname: Yin
+  institution: Quantum Brilliance
 -
   id: John_Zaitseff
   name: John
   surname: Zaitseff
+  institution: UNSW Sydney
+  thumbnailUrl: John_Zaitseff.jpg
 - 
   id: Damian_Almeida
   name: Damian
   surname: Almeida
+  institution: Gale
+  thumbnailUrl: Damian_Almeida.png
 - 
   id: Morgan_Quinn
   name: Morgan
   surname: Quinn
+- 
+  id: Emmanuel_Blanchard
+  name: Emmanuel
+  surname: Blanchard
+  thumbnailUrl: Emmanuel_Blanchard.png
+  institution: MathWorks
 -
   id: Gordon_McDonald
   name: Gordon
   surname: McDonald
+  institution: MathWorks
 - 
   id: Liz_Stokes
   name: Liz 
   surname: Stokes
+  institution: ARDC
 -
   id: Amy_Cotton
   name: Amy
   surname: Cotton
+  institution: University of Technology Sydney
 -
   id: Mike_Lynch
   name: Mike
   surname: Lynch
+  institution: University of Sydney
 - 
   id: Brian_Ballsun-Stanton
   name: Brian
   surname: Ballsun-Stanton
+  institution: Macquarie University
+  thumbnailUrl: Brian_Ballsun-Stanton.jpg
 - 
   id: Shannon_Taylor
   name: Shannon
   surname: Taylor
+  institution: University of Sydney
 - 
-  id: YuChen_Chang
-  name: YuChen
+  id: Yuchen_Chang
+  name: Yuchen
   surname: Chang
+  institution: Centenary Institute
+  thumbnailUrl: Yuchen_Chang.png
 -
   id: Chao_Sun
   name: Chao
   surname: Sun
+  institution: University of Sydney
 - 
   id: Cameron_Fong
   name: Cameron
   surname: Fong
+  institution: University of Sydney
 - 
   id: Olivia_Inwood
   name: Olivia
   surname: Inwood
+  institution: Western Sydney University
+  thumbnailUrl: Olivia_Inwood.jpg
 -
   id: Michael_Lake
   name: Michael
   surname: Lake
+  institution: University of Technology Sydney
 - 
   id: Tom_Honeyman
   name: Tom
   surname: Honeyman
+  institution: ARDC
+-
+  id: Kai_Riemer
+  name: Kai
+  surname: Riemer
+  honorific: Professor
+  institution: University of Sydney
 -
   id: Avinash_Singh
   name: Avinash
   surname: Singh
   bio: Dr Avinash Singh is a Lecturer (Assistant Professor) in the School of Computer Science in the University of Technology Sydney (UTS), Australia. He works in the intersection of AI/machine learning, cognitive neuroscience, signal processing and mixed-reality to design and develop real-world neuroadaptive Brain-Computer Interfaces/Neurotech systems. He also serves as co-chair in the IEEE Neuroethics Framework for Workplace sponsored by IEEE Brain and the IEEE Standards committee on Unifying BCIs technologies and standards.
+  institution: University of Technology Sydney
+  thumbnailUrl: Avinash_Singh.JPG

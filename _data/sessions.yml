@@ -23,22 +23,34 @@
   title: Hacky Hour / Community
   subtype: social
 -
+  id: empty
+  subtype: presentation
+-
   id: opening
   title: Opening Address
   subtype: keynote
   speakers: [ Simon_Ringer ]
-- description: TBA
+- description: EarthByte - 2023 finalists in Eureka Prize for Excellence in Research Software
   id: earthbyte
   speakers: [ "Dietmar_M\xFCller" ]
   subtype: keynote
-  title: EarthByte - 2023 finalists in Eureka Prize for Excellence in Research Software
+  title: Building a Virtual Earth
   topics: [ computing, hpc ]
 - 
   id: cheminformatics
   speakers: [ Slade_Matthews ]
   subtype: workshop
   title: Introduction to Cheminformatics in Python
-  description: "This workshop will be an interactive demonstration in which you will be introduced to the use of Python for cheminformatic modelling using Google Co-lab notebooks. The session also demonstrates the utility of cloud computing for educational purposes negating the need for students to setup complicated infrastructure before getting down to the learning part of their activities. Participants will access an online data source via a Google Colab Jupyter Notebook and generate fingerprint representations of chemical data for subsequent modelling in SciKitLearn. The final model will be predictive of psychedelic activity based on the structure-activity relationship found in a set of phenethylamine molecules."
+  description: "This workshop will be an interactive demonstration in which you
+    will be introduced to the use of Python for cheminformatic modelling using 
+    Google Co-lab notebooks. The session also demonstrates the utility of cloud
+    computing for educational purposes negating the need for students to setup
+    complicated infrastructure before getting down to the learning part of their
+    activities. Participants will access an online data source via a Google Colab
+    Jupyter Notebook and generate fingerprint representations of chemical data
+    for subsequent modelling in SciKitLearn. The final model will be predictive
+    of psychedelic activity based on the structure-activity relationship found in
+    a set of phenethylamine molecules."
   topics: [ computing ]
 - description: TBA
   id: quantum
@@ -62,11 +74,34 @@
   subtype: workshop
   title: Linux and HPC on NCI Gadi
   topics: [ computing, hpc ]
-- description: TBA
-  id: gale
+- id: gale
+  title: Getting Started With Your Research Using the Gale Digital Scholar Lab
+  description: For researchers, DH scholarship is fueling new ways of
+    interrogating content, analysing insights, and outputting discoveries, and is
+    fundamentally shifting how scholars partner together to make new types of
+    research possible. Collaboration is a key driver of change as people with
+    diverse backgrounds and skills come together to address common barriers
+    related to applying new computing tools to content that may not always be
+    prepped and accessible. Together with libraries, Gale is poised to help
+    colleges and universities launch, enhance, or accelerate their digital
+    scholarship programs, strengthening connections with faculty and students.
+    Gale Digital Scholar Lab, developed with participation from beta testers
+    across a wide range of institutions and organisations, is designed to
+    transform the way scholars and students access and analyse Gale primary
+    source materials by offering solutions to some of the most common challenges
+    facing researchers in the digital humanities today. By integrating an
+    unmatched depth and breadth of digital primary source matter with the most
+    popular DH tools, Gale Digital Scholar Lab provides a new lens to explore
+    history and empowers researchers to generate world-altering conclusions and
+    outcomes. Through advanced humanities computing tools that make natural
+    language processing (NLP) for historical texts accessible, more efficient,
+    and impactful, the footprint of digital humanities can be expanded to more
+    classrooms around the globe. This session will showcase The Gale Digital
+    Scholar Lab, a cloud based text and data mining tool allowing researchers,
+    academics and students text and data mine Gale Primary sources and also the
+    ability to upload their own content into the Lab for analysis.
   speakers: [ Damian_Almeida ]
   subtype: sponsor
-  title: Gale Digital Scholar Lab
   topics: [ hass, sponsor ]
 - description: TBA
   id: languages_showcase
@@ -84,13 +119,13 @@
   id: wellbeing
   speakers: [ Venessa_Paech, Liz_Stokes, Amy_Cotton, Hillary Davis, Arash Araghi ]
   subtype: keynote
-  title: "Panel: Building & Accessing Community in the PhD journey"
+  title: "Panel: Building & Accessing Community in the HDR journey"
   topics: [ wellbeing ]
-- description: TBA
+- description: Find out about UTS’s work to innovate its support of HDR students by developing a capability framework and identifying pressure points in students’ research journeys. With student capacity and wellness in mind, UTS seeks to create a community of research practice through its broad development and wellness program. Aside from skills development, we are also seeking to combat feelings of isolation and disconnection by a range of networking events.
   id: stress
   speakers: [ Amy_Cotton ]
   subtype: workshop
-  title: Research, Stress and Anxiety
+  title: Building an Higher Degree Research Student Support Program at UTS
   topics: [ wellbeing ]
 - id: git
   speakers: [ Mike_Lynch ]
@@ -98,7 +133,8 @@
   title: Git for Collaboration
   description: This presentation will show how the version control system git and web-enabled platforms like GitHub can be used by researchers to collaborate effectively both within their own teams and with other researchers and open-source projects.
   topics: [ computing, wellbeing ]
-- description: TBA
+- title: Large Language Models and Generative AI
+  description: "<p>A two-hour hands-on workshop giving a brief history of the last few months of development of \"Generative AI.\" These tools, these Large Language Models, offer present promise and peril -- disruption -- to ways of working and of learning. Outside the \"hype,\" these tools are \"calculators for words\" and allow the same manipulation and reflection of a user's words as a calculator offers for a user's numbers. The workshop will guide users into using various free and paid tools, and the effective use of Large Language Models through chain of thought prompting.</p> <p>Remember: a LLM is \"Always confident and usually correct.\"</p><p>Topics:<br /><ul><li>What are these Generative AI/LLM things? (Activity I: Think, Pair, Share)</li><li>and how should we think about them? (Activity II: Asking a question of a PDF)</li><li>How can we currently use these tools in useful ways? (Activity III: Demonstration of github copilot)</li><li>Dangers and confabulations (Activity IV: Replicating a confabulation)</li> </ul> <p>There will be multiple hands-on activities throughout the workshop, so please bring a fully charged laptop.</p> <p><a href=\"https://osf.io/rd24y/\" target=\"_blank\">The slides for previous workshops are available CC-BY</a></p>"
   id: llms
   speakers: [ Brian_Ballsun-Stanton ]
   subtype: workshop
@@ -120,9 +156,9 @@
     heart diseases, leading to improved diagnoses and better management for affected
     individuals and their family members.
   id: bioinformaticshpc
-  speakers: [ YuChen_Chang ]
+  speakers: [ Yuchen_Chang ]
   subtype: presentation
-  title: Bioinformatics for HPC
+  title: "Enhancing Genetic Disease Diagnosis: Insights from Secondary Analysis in Genetic Heart Conditions"
   topics: [ biomedical ]
 - description: TBA
   id: atap
@@ -134,7 +170,7 @@
   id: redcap
   speakers: [ Cameron_Fong ]
   subtype: workshop
-  title: ReDCap
+  title: ReDCap Tips and Tricks
   topics: [ biomedical, rdm ]
 - description: This presentation will explore techniques in Systemic Functional Linguistics
     (SFL), the study of the relationship between language and its social context,
@@ -151,11 +187,18 @@
   subtype: presentation
   title: Systemic Functional Linguistics
   topics: [ computing, hass ]
-- description: The Data Directory Cataloger is a Python program that helps research groups to catalog their data directories. The entire Python program is less than 500 lines. Researchers just drop a README text file containing a few metadata fields into directories containing their data. The Python program scans directories for those README files. It collates the metadata into Markdown documents. A static website generator then creates a web site from those documents. The UTS is currently using this to help research groups to document their data on our HPC data storage system.
-  id: data_directory
+- id: data_directory
+  title: The Data Directory Cataloger - It's Just a Simple Python Program
+  description: The Data Directory Cataloger is a Python program that helps
+    research groups to catalog their data directories. The entire Python program
+    is less than 500 lines. Researchers just drop a README text file containing a
+    few metadata fields into directories containing their data. The Python
+    program scans directories for those README files. It collates the metadata
+    into Markdown documents. A static website generator then creates a web site
+    from those documents. The UTS is currently using this to help research groups
+    to document their data on our HPC data storage system.
   speakers: [ Michael_Lake ]
   subtype: presentation
-  title: The Data Directory Cataloger
   topics: [ rdm, hpc ]
 - id: bci
   title: Applications of Brain Computer Interface
@@ -172,3 +215,9 @@
 - id: three_minute
   title: Showcase of Three-Minute Thesis 2023 Entrants
   description: Researchers from multiple institutions will present their entries in 2023's Three-Minute Thesis competition.
+- id: business_ai
+  title: Using Generative AI for Personal Productivity
+  description: TBA
+  speakers: [ Kai_Riemer ]
+  topics: [ ai, wellbeing ]
+
