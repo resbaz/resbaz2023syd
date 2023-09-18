@@ -98,7 +98,7 @@
   title: Git for Collaboration
   description: This presentation will show how the version control system git and web-enabled platforms like GitHub can be used by researchers to collaborate effectively both within their own teams and with other researchers and open-source projects.
   topics: [ computing, wellbeing ]
-- description: TBA
+- description: A hands-on workshop giving a brief history of the last few months of development of "Generative AI." These tools, these Large Language Models, offer present promise and peril -- disruption -- to ways of working and of learning. Outside the "hype," these tools are "calculators for words" and allow the same manipulation and reflection of a user's words as a calculator offers for a user's numbers. The workshop will guide users into using various free and paid tools, and the effective use of Large Language Models through chain of thought prompting. Remember: a LLM is "Always confident and usually correct."
   id: llms
   speakers: [ Brian_Ballsun-Stanton ]
   subtype: workshop
