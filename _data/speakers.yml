@@ -65,7 +65,7 @@
   id: Gordon_McDonald
   name: Gordon
   surname: McDonald
-  institution: MathWorks
+  institution: University of Sydney
 - 
   id: Liz_Stokes
   name: Liz 
@@ -136,4 +136,4 @@
   surname: Singh
   bio: Dr Avinash Singh is a Lecturer (Assistant Professor) in the School of Computer Science in the University of Technology Sydney (UTS), Australia. He works in the intersection of AI/machine learning, cognitive neuroscience, signal processing and mixed-reality to design and develop real-world neuroadaptive Brain-Computer Interfaces/Neurotech systems. He also serves as co-chair in the IEEE Neuroethics Framework for Workplace sponsored by IEEE Brain and the IEEE Standards committee on Unifying BCIs technologies and standards.
   institution: University of Technology Sydney
-  thumbnailUrl: Avinash_Singh.JPG
+  thumbnailUrl: Avinash_Singh.jpg
