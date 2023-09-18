@@ -7,6 +7,38 @@
     <atom:link href="http://localhost:4000/resbaz2023syd/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Gale Digital Scholar Lab - Text and Data Mining - HASS</title>
+        <description>&lt;p&gt;Think ResBaz is just for STEM? Think again! ResBaz is holding multiple
+Humanities and Social Science events across the three days! Learn about &lt;a href=&quot;https://www.gale.com/intl/primary-sources/digital-scholar-lab&quot;&gt;Gale
+Digital Scholar Lab&lt;/a&gt;, a new cloud-based text and data mining environment, which
+combines open-source tools with Gale’s digital archive collections in an
+integrated platform. This new platform seeks to combat two key barriers to
+successfully taking on a Digital Humanities project, which can be summarised
+as-&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Access to relevant data in a format optimised for analysis,&lt;/li&gt;
+  &lt;li&gt;Hosting, organising and sharing of large amounts of OCR and metadata.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Or explore the &lt;a href=&quot;https://www.atap.edu.au/&quot;&gt;Australian Text Analytics Platform (ATAP)&lt;/a&gt;, an ongoing national
+project which provides web-enabled notebooks which allow researchers to use the
+latest analytical tools to accelerate their work with unstructured text,
+allowing automated analysis of conversations, semantic tagging, named entity
+recognition and more.&lt;/p&gt;
+
+&lt;p&gt;Want to learn about NTROs? Come by and hear about case studies which include
+research output from non-STEM projects which will explore different concepts of
+what research data looks like, and how digital tools can be applied. There are
+plenty of topics for those in the humanities. Come and join us at ResBaz to see
+what’s right for you. &lt;a href=&quot;https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057&quot;&gt;Register here!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Sep 2023 23:00:00 +1000</pubDate>
+        <link>http://localhost:4000/resbaz2023syd/news/HASS</link>
+        <guid isPermaLink="true">http://localhost:4000/resbaz2023syd/news/HASS</guid>
+      </item>
+    
+      <item>
         <title>High Performance Computing</title>
         <description>&lt;p&gt;Are you curious about high performance computing? What about Quantum Computers? Earthbytes or want to learn the basics of Linux? At ResBaz we have multiple events that cater to your HPC queries and curiosities.&lt;/p&gt;
 
