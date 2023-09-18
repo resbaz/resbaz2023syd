@@ -163,7 +163,7 @@
   subtype: presentation
   speakers: [ Avinash_Singh ]
   topics: [ biomedical ]
-- description: TBA
+- description: Are you always on the lookout for productivity hacks to cope with the webform-ocracy of modern research work? This is an interactive session on the changing nature of research work, and how the systems we design can start to address some of the challenges in being a researcher. Together we will unpack codesign methodologies that centre the experience of being a researcher in developing solutions for digital research infrastructure. We're keen to involve people doing AND supporting research in the humanities, creative arts and social sciences. Novice and seasoned practitioners of open science alike are extremely welcome.
   id: hass_infra
   speakers: [ Tom_Honeyman ]
   subtype: presentation
