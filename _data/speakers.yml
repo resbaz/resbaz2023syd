@@ -33,11 +33,6 @@
   institution: University of Sydney
   honorific: Dr
   thumbnailUrl: Slade_Matthews.jpg
-- 
-  id: Simon_Yin
-  name: Simon
-  surname: Yin
-  institution: Quantum Brilliance
 -
   id: John_Zaitseff
   name: John
@@ -60,11 +55,13 @@
   surname: Blanchard
   thumbnailUrl: Emmanuel_Blanchard.png
   institution: MathWorks
+  honorific: Dr
   bio: Dr Emmanuel Blanchard is a senior application engineer at MathWorks who first joined the company as a training engineer in 2014. He focuses on data analytics. Prior to joining MathWorks, he was a Lecturer in Mechatronic Engineering at the University of Wollongong. He holds a PhD in Mechanical Engineering from Virginia Tech. He also worked as a Systems / Controls Engineer at Cummins Engine Company and as a research assistant in several research institutions in California and Virginia.
 -
   id: Gordon_McDonald
   name: Gordon
   surname: McDonald
+  honorific: Dr
   institution: University of Sydney
 - 
   id: Liz_Stokes
@@ -86,11 +83,13 @@
   name: Brian
   surname: Ballsun-Stanton
   institution: Macquarie University
+  honorific: Dr
   thumbnailUrl: Brian_Ballsun-Stanton.jpg
 - 
   id: Shannon_Taylor
   name: Shannon
   surname: Taylor
+  honorific: Dr
   institution: University of Sydney
 - 
   id: Yuchen_Chang
@@ -102,11 +101,13 @@
   id: Chao_Sun
   name: Chao
   surname: Sun
+  honorific: Dr
   institution: University of Sydney
 - 
   id: Cameron_Fong
   name: Cameron
   surname: Fong
+  honorific: Dr
   institution: University of Sydney
 - 
   id: Olivia_Inwood
@@ -131,9 +132,29 @@
   honorific: Professor
   institution: University of Sydney
 -
+  id: Pat_Norman
+  name: Pat
+  surname: Norman
+  honorific: Dr
+  bio: Dr Pat Norman is the Research and Development Lead for Sydney Executive Plus, an executive upskilling initiative at the University of Sydney Business School. His doctoral research explored professional identity, ethics, and education policy enactment in the context of neoliberalism. Pat's research interests include professional identity and practical wisdom, artificial intelligence, the future of work and management, and approaches to flourishing under neoliberalism. Pat collaborates on the delivery of programs related to megatrends and the future of work, corporate foresight and strategy, changing management practices, AI fluency, and innovation in business. He also writes on pop culture and social theory, and has published research in Critical Studies in Education, the Australian Educational Researcher, and Teaching in Higher Education.
+-
   id: Avinash_Singh
   name: Avinash
   surname: Singh
+  honorific: Dr
   bio: Dr Avinash Singh is a Lecturer (Assistant Professor) in the School of Computer Science in the University of Technology Sydney (UTS), Australia. He works in the intersection of AI/machine learning, cognitive neuroscience, signal processing and mixed-reality to design and develop real-world neuroadaptive Brain-Computer Interfaces/Neurotech systems. He also serves as co-chair in the IEEE Neuroethics Framework for Workplace sponsored by IEEE Brain and the IEEE Standards committee on Unifying BCIs technologies and standards.
   institution: University of Technology Sydney
   thumbnailUrl: Avinash_Singh.jpg
+-
+  id: Michael_Walker
+  name: Michael
+  surname: Walker
+  honorific: Dr
+  bio: Michael began his career in theoretical physics before moving into biological modelling and later completing an MPhil in bioinformatics. He then applied machine learning to molecular modelling in drug design before a stint in epidemiological modelling before joining Quantum Brilliance
+  institution: Quantum Brilliance  
+-
+  id: Simon_Yin
+  name: Simon
+  surname: Yin
+  bio: Simon has been developing Qristal , an open source SDK that integrates quantum computing on HPC sites. He is an alumni from Sydney Uni (B.Eng,electrical + B.Commerce) and has a MSc in HPC from National University of Singapore. He has also worked previously for Cochlear, UNSW CQCT, Intersect, Childrens Cancer Institute and UNSW ResTech
+  institution: Quantum Brilliance
