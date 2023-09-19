@@ -127,10 +127,10 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:resbazsyd@gmail.com", text: "resbazsyd@gmail.com"}
- # -
- #  title: "Code of Conduct"
- #  links:
- #   - {permalink: "/code/", text: "Code of Conduct"}
+  -
+   title: "Code of Conduct"
+   links:
+    - {permalink: "/code/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
