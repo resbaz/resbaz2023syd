@@ -50,16 +50,17 @@
     Jupyter Notebook and generate fingerprint representations of chemical data
     for subsequent modelling in SciKitLearn. The final model will be predictive
     of psychedelic activity based on the structure-activity relationship found in
-    a set of phenethylamine molecules."
+    a set of phenethylamine molecules. Participants will need a Google account to
+    be able to make their own cheminformatics models in this workshop."
   topics: [ computing ]
 - id: ai_matlab
   title: Low-Code AI with MATLAB
   description: <p><strong>Overview</strong></p> <p>This seminar will show you real-world examples how MATLAB makes AI easy and accessible with tools such as interactive apps generating MATLAB code. MATLAB provides AI capabilities similar to those of dedicated AI tools like scikit-learn or TensorFlow—and more importantly, only MATLAB lets you integrate AI into the complete workflow for developing a fully engineered system, from data preparation to deployment.</p> <p><strong>Highlights</strong></p><ul><li>Generate MATLAB code using Apps comparing different machine learning methods</li><li>Graphically create, edit, and train Deep Learning models</li><li>Use labeller apps to automate your data labelling workflow</li><li>Deploy your models to production in a variety of formats</li></ul>
   speakers: [ Emmanuel_Blanchard ]
   topics: [ ai, computing ]
-- description: TBA
+- description: On premise quantum computing is a reality thanks to Quantum Brilliance’s compact quantum accelerators. The technology developed by Quantum Brilliance allows for low power consumption devices that operate at room temperature and are easy to install in any lab.
   id: quantum
-  speakers: [ Simon_Yin ]
+  speakers: [ Michael_Walker, Simon_Yin ]
   subtype: sponsor
   title: Quantum Brilliance
   topics: [ computing, hpc, sponsor ]
@@ -149,7 +150,7 @@
   id: ntros
   speakers: [ Shannon_Taylor ]
   subtype: presentation
-  title: Non-traditional Research Outputs
+  title: Research Data Management approach to Non-Traditional Research Outputs
   topics: [ hass, rdm  ]
 - description: This presentation delves into an innovative study that establishes
     a standardized approach following accredited clinical genome testing for genetic
@@ -176,7 +177,7 @@
   speakers: [ Cameron_Fong ]
   subtype: workshop
   title: ReDCap Tips and Tricks
-  topics: [ biomedical, rdm ]
+  topics: [ rdm ]
 - description: This presentation will explore techniques in Systemic Functional Linguistics
     (SFL), the study of the relationship between language and its social context,
     for analysing qualitative data. In particular,this presentation will address how
@@ -223,6 +224,6 @@
 - id: business_ai
   title: Using Generative AI for Personal Productivity
   description: TBA
-  speakers: [ Kai_Riemer ]
+  speakers: [ Kai_Riemer, Pat_Norman ]
   topics: [ ai, wellbeing ]
 
