@@ -57,7 +57,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
  - {permalink: "/program/", text: "Program"}
  - {permalink: "/location/", text: "Location"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/code/", text: "Code of Conduct"}
 #bottomNavigationLinks:
 # - {permalink: "/program/", text: "Register here"}
