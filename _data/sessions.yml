@@ -50,7 +50,8 @@
     Jupyter Notebook and generate fingerprint representations of chemical data
     for subsequent modelling in SciKitLearn. The final model will be predictive
     of psychedelic activity based on the structure-activity relationship found in
-    a set of phenethylamine molecules."
+    a set of phenethylamine molecules. Participants will need a Google account to
+    be able to make their own cheminformatics models in this workshop."
   topics: [ computing ]
 - id: ai_matlab
   title: Low-Code AI with MATLAB
