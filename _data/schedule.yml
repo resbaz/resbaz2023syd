@@ -6,6 +6,12 @@
     - {title: "Two",                color: "#2b7189"}
   timeslots:
     - {
+      startTime: "8:30",
+      endTime:   "9:00",
+      sessionIds: [ "registration" ],
+      cols: [ 3 ]
+    }
+    - {
     	startTime: "9:00",
     	endTime:   "9:30",
     	sessionIds: [ "opening" ],
