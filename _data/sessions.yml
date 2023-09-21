@@ -1,4 +1,9 @@
 -
+  id: registration
+  title: Registration
+  type: break
+  service: true
+-
   id: welcome
   title: Welcome
   type: break
