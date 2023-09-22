@@ -68,11 +68,31 @@
   name: Liz 
   surname: Stokes
   institution: ARDC
+  bio: Liz advocates for research trainers and connects global training communities to deliver a national skills advantage for Australian researchers. They lead a national <a href="https://ardc.edu.au/project/the-carpentries-partnership/">Carpentries Partnership</a> to help researchers train peers in programming, and coordinate a regional network of ResBaz organisers across Australia and New Zealand. At the Australian Research Data Commons, Liz also runs an internal community of practice for <a href="https://ardc.edu.au/get-involved/communities-and-groups/">Community Facilitators.</a> 
 -
   id: Amy_Cotton
   name: Amy
   surname: Cotton
   institution: University of Technology Sydney
+  bio: "Amy currently implements a program with 200 learning and social opportunities for Higher Degree Research students on behalf of GRS, UTS. This includes a strong focus on wellbeing as a vital part of researcher development. She brings a diverse range of experiences to her current role, including designing and implementing statewide professional development programs for tens of thousands of teachers for the Independent Education Union, Teacher Learning Network, Victorian Department of Education and several teaching associations. She has worked as a policy negotiator and advisor, union organiser, public spokesperson, learning designer and teacher. Amy is the director of Cotton Education Services, a learning design company which builds facilitation and online solutions for development of employees or members. In her spare time, she builds communities online to help stave off loneliness for isolated people."
+-
+  id: Venessa_Paech
+  name: Venessa
+  surname: Paech
+  institution: University of Sydney
+  bio: Venessa (BFA, MA) is Australia’s leading expert in online communities. She has led community for Lonely Planet, REA Group, Envato and Australia Post, and as a private consultant helps organisations design, build and maintain thriving communities (including&#58; ABC, Teach for Australia, SANE and Woolworths). Venessa co-founded the longest running conference for community professionals in the world - Swarm - and in 2023 launched the first ever dedicated conference for online moderation. She is Co-Founder and Director of <a href="https://www.australiancommunitymanagers.com.au/">Australian Community Managers (ACM)</a>, the national centre of excellence for community management training, research and resources. Venessa created and teaches the first post-graduate online community management Unit and a Community at Work intensive for executives at the University of Sydney, where she is a fellow PhD Candidate researching AI and communities.
+- 
+  id: Hillary_Davis
+  name: Hillary
+  surname: Davis
+  institution: SUPRA
+  bio: Hillary is a 2nd year astrophysics PhD student at the University of Sydney. Her research is in Galactic Archaeology – a study of the history of the Milky Way galaxy. She is also a tutor of 1st and 2nd yr undergraduate physics, and holds a position as a General Councillor in SUPRA.
+-
+  id: Arash_Araghi
+  name: Arash
+  surname: Araghi
+  institution: SUPRA
+  bio: Arash Araghi (HDR Equity Officer) is an Engineering PhD candidate exploring pragmatic solutions toward understanding the underlying release mechanisms of small drug molecules of short biological half-life. He also serves as the HDR Equity Officer in SUPRA representing research students to the University and advocating for the best research and education practices.
 -
   id: Mike_Lynch
   name: Mike
