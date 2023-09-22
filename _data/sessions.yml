@@ -63,7 +63,24 @@
   description: <p><strong>Overview</strong></p> <p>This seminar will show you real-world examples how MATLAB makes AI easy and accessible with tools such as interactive apps generating MATLAB code. MATLAB provides AI capabilities similar to those of dedicated AI tools like scikit-learn or TensorFlow—and more importantly, only MATLAB lets you integrate AI into the complete workflow for developing a fully engineered system, from data preparation to deployment.</p> <p><strong>Highlights</strong></p><ul><li>Generate MATLAB code using Apps comparing different machine learning methods</li><li>Graphically create, edit, and train Deep Learning models</li><li>Use labeller apps to automate your data labelling workflow</li><li>Deploy your models to production in a variety of formats</li></ul>
   speakers: [ Emmanuel_Blanchard ]
   topics: [ ai, computing ]
-- description: On premise quantum computing is a reality thanks to Quantum Brilliance’s compact quantum accelerators. The technology developed by Quantum Brilliance allows for low power consumption devices that operate at room temperature and are easy to install in any lab.
+- description: <p>On premise quantum computing is a reality thanks to Quantum
+    Brilliance’s compact quantum accelerators. The technology
+    developed by Quantum Brilliance allows for low power
+    consumption devices that operate at room temperature and are
+    easy to install in any lab.</p>
+    <p>We build the full stack, from quantum diamonds to all the
+    layers of control and programming SW, all the way to
+    quantum simulators and emulators.</p>
+    <p>Start coding quantum algorithms today using our open
+    source simulator <a href="https://qristal.readthedocs.io/en/latest/">Qristal SDK</a> and explore avenues for
+    quantum utility in your research.</p>
+    <p>At ResBaz 2023, we are here to connect our teams of
+    scientists, engineers and product managers to the up and
+    coming research community.</p>
+    <p>Stop by at our booth to try for yourself what it takes to
+    start coding quantum algorithms, assist to live demos, or
+    simply to have a chat about the unavoidable
+    consequences of the quantum computing revolution.</p>
   id: quantum
   speakers: [ Michael_Walker, Simon_Yin ]
   subtype: sponsor
@@ -128,7 +145,7 @@
   topics: [ ai ]
 - description: This panel explores the critical ways that Community can bolster personal wellbeing on the often grueling and isolating PhD journey. Our special guest experts will share lived experiences and advice on both building and accessing community, online and offline.
   id: wellbeing
-  speakers: [ Venessa_Paech, Liz_Stokes, Amy_Cotton, Hillary Davis, Arash Araghi ]
+  speakers: [ Venessa_Paech, Liz_Stokes, Amy_Cotton, Hillary_Davis, Arash_Araghi ]
   subtype: keynote
   title: "Panel: Building & Accessing Community in the HDR journey"
   topics: [ wellbeing ]
@@ -231,4 +248,8 @@
   description: TBA
   speakers: [ Kai_Riemer, Pat_Norman ]
   topics: [ ai, wellbeing ]
-
+-
+  id: closing
+  title: Closing
+  subtype: keynote
+  speakers: [ Mike_Lynch ]

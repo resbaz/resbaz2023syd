@@ -204,3 +204,9 @@
       endTime:   "15:30",
       sessionIds: [ "bci", "hass_infra" ]
     }
+    - {
+      startTime: "15:30",
+      endTime:   "15:45",
+      sessionIds: [ "closing" ],
+      cols: [ 2 ]
+    }
