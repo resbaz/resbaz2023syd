@@ -177,10 +177,12 @@
   surname: Walker
   honorific: Dr
   bio: Michael began his career in theoretical physics before moving into biological modelling and later completing an MPhil in bioinformatics. He then applied machine learning to molecular modelling in drug design before a stint in epidemiological modelling before joining Quantum Brilliance
-  institution: Quantum Brilliance  
+  institution: Quantum Brilliance
+  thumbnailUrl: Michael_Walker.png  
 -
   id: Simon_Yin
   name: Simon
   surname: Yin
   bio: Simon has been developing Qristal , an open source SDK that integrates quantum computing on HPC sites. He is an alumni from Sydney Uni (B.Eng,electrical + B.Commerce) and has a MSc in HPC from National University of Singapore. He has also worked previously for Cochlear, UNSW CQCT, Intersect, Childrens Cancer Institute and UNSW ResTech
   institution: Quantum Brilliance
+  thumbnailUrl: Simon_Yin.jpg
