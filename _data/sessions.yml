@@ -182,7 +182,7 @@
   subtype: presentation
   title: "Enhancing Genetic Disease Diagnosis: Insights from Secondary Analysis in Genetic Heart Conditions"
   topics: [ biomedical ]
-- description: TBA
+- description: The Sydney Informatics Hub is pleased to present a special methods workshop hosted by the <a href="https://www.atap.edu.au/">Australian Text Analytics Platform</a>. At the workshop, you will learn how to use the Document Similarity tool, which enables users to efficiently identify duplicated content within document collections. You’ll be shown how to use the tool to inspect identified similarities and differences, placing highlighted documents side-by-side, and facilitating informed decisions on content retention. Further, other ATAP tools like Juxtorpus will be demonstrated on this session with an example application to analyse internet privacy policies, comparing different versions of such documents as they are updated over time as individual documents or a collection of policies.
   id: atap
   speakers: [ Chao_Sun ]
   subtype: workshop
