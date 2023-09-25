@@ -99,6 +99,7 @@
   name: Mike
   surname: Lynch
   institution: University of Sydney
+  thumbnailUrl: Mike_Lynch.png
 - 
   id: Brian_Ballsun-Stanton
   name: Brian
@@ -136,6 +137,7 @@
   surname: Inwood
   institution: Western Sydney University
   thumbnailUrl: Olivia_Inwood.jpg
+  thumbnailUrl: default.png
 -
   id: Michael_Lake
   name: Michael
@@ -152,12 +154,14 @@
   surname: Riemer
   honorific: Professor
   institution: University of Sydney
+  thumbnailUrl: Kai_Riemer.jpg
 -
   id: Pat_Norman
   name: Pat
   surname: Norman
   honorific: Dr
   bio: Dr Pat Norman is the Research and Development Lead for Sydney Executive Plus, an executive upskilling initiative at the University of Sydney Business School. His doctoral research explored professional identity, ethics, and education policy enactment in the context of neoliberalism. Pat's research interests include professional identity and practical wisdom, artificial intelligence, the future of work and management, and approaches to flourishing under neoliberalism. Pat collaborates on the delivery of programs related to megatrends and the future of work, corporate foresight and strategy, changing management practices, AI fluency, and innovation in business. He also writes on pop culture and social theory, and has published research in Critical Studies in Education, the Australian Educational Researcher, and Teaching in Higher Education.
+  thumbnailUrl: Pat_Norman.jpg
 -
   id: Avinash_Singh
   name: Avinash
