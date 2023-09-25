@@ -131,14 +131,7 @@
   speakers: [ Damian_Almeida ]
   subtype: sponsor
   topics: [ hass, sponsor ]
-- description: TBA
-  id: languages_showcase
-  speakers: [ Morgan_Quinn, Mike_Lynch ]
-  subtype: presentation
-  title: Languages Showcase
-  topics: [ computing ]
-- description: TBA
-  id: chatgpt_masterclass
+- id: chatgpt_masterclass
   speakers: [ Gordon_McDonald ]
   subtype: presentation
   title: ChatGPT for Research
@@ -246,7 +239,7 @@
   description: Researchers from multiple institutions will present their entries in 2023's Three-Minute Thesis competition.
 - id: business_ai
   title: Using Generative AI for Personal Productivity
-  description: TBA
+  description: "Tools like ChatGPT, Midjourney, and Bing AI have arrived and are changing the way we work. We are in an era of assistive thinking: AI tools can help improve our productivity, creativity, and analytic thinking. This session will explore ways generative AI can be used productively by researchers - as well as some of the caveats and limitations associated with the technology."
   speakers: [ Kai_Riemer, Pat_Norman ]
   topics: [ ai, wellbeing ]
 -
