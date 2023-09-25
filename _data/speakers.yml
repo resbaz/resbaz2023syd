@@ -99,7 +99,8 @@
   name: Mike
   surname: Lynch
   institution: University of Sydney
-  thumbnailUrl: Mike_Lynch.png
+  thumbnailUrl: Mike_Lynch.jpg
+  bio: Mike Lynch is a Data Science Group Lead at the Sydney Informatics Hub. He is a software engineer with extensive experience in building platforms and systems to support research, with a particular interest in research data management and metadata standards. 
 - 
   id: Brian_Ballsun-Stanton
   name: Brian
