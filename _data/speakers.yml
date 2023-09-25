@@ -1,4 +1,94 @@
 - 
+  id: Damian_Almeida
+  name: Damian
+  surname: Almeida
+  institution: Gale
+  thumbnailUrl: Damian_Almeida.png
+-
+  id: Arash_Araghi
+  name: Arash
+  surname: Araghi
+  institution: SUPRA
+  bio: Arash Araghi (HDR Equity Officer) is an Engineering PhD candidate exploring pragmatic solutions toward understanding the underlying release mechanisms of small drug molecules of short biological half-life. He also serves as the HDR Equity Officer in SUPRA representing research students to the University and advocating for the best research and education practices.
+- 
+  id: Brian_Ballsun-Stanton
+  name: Brian
+  surname: Ballsun-Stanton
+  institution: Macquarie University
+  honorific: Dr
+  thumbnailUrl: Brian_Ballsun-Stanton.jpg
+- 
+  id: Emmanuel_Blanchard
+  name: Emmanuel
+  surname: Blanchard
+  thumbnailUrl: Emmanuel_Blanchard.png
+  institution: MathWorks
+  honorific: Dr
+  bio: Dr Emmanuel Blanchard is a senior application engineer at MathWorks who first joined the company as a training engineer in 2014. He focuses on data analytics. Prior to joining MathWorks, he was a Lecturer in Mechatronic Engineering at the University of Wollongong. He holds a PhD in Mechanical Engineering from Virginia Tech. He also worked as a Systems / Controls Engineer at Cummins Engine Company and as a research assistant in several research institutions in California and Virginia.
+- 
+  id: Yuchen_Chang
+  name: Yuchen
+  surname: Chang
+  institution: Centenary Institute
+  thumbnailUrl: Yuchen_Chang.png
+-
+  id: Amy_Cotton
+  name: Amy
+  surname: Cotton
+  institution: University of Technology Sydney
+  bio: "Amy currently implements a program with 200 learning and social opportunities for Higher Degree Research students on behalf of GRS, UTS. This includes a strong focus on wellbeing as a vital part of researcher development. She brings a diverse range of experiences to her current role, including designing and implementing statewide professional development programs for tens of thousands of teachers for the Independent Education Union, Teacher Learning Network, Victorian Department of Education and several teaching associations. She has worked as a policy negotiator and advisor, union organiser, public spokesperson, learning designer and teacher. Amy is the director of Cotton Education Services, a learning design company which builds facilitation and online solutions for development of employees or members. In her spare time, she builds communities online to help stave off loneliness for isolated people."
+- 
+  id: Hillary_Davis
+  name: Hillary
+  surname: Davis
+  institution: SUPRA
+  bio: Hillary is a 2nd year astrophysics PhD student at the University of Sydney. Her research is in Galactic Archaeology – a study of the history of the Milky Way galaxy. She is also a tutor of 1st and 2nd yr undergraduate physics, and holds a position as a General Councillor in SUPRA.
+- 
+  id: Cameron_Fong
+  name: Cameron
+  surname: Fong
+  honorific: Dr
+  institution: University of Sydney
+- 
+  id: Tom_Honeyman
+  name: Tom
+  surname: Honeyman
+  institution: ARDC
+- 
+  id: Olivia_Inwood
+  name: Olivia
+  surname: Inwood
+  institution: Western Sydney University
+  thumbnailUrl: Olivia_Inwood.jpg
+  thumbnailUrl: default.png
+-
+  id: Michael_Lake
+  name: Michael
+  surname: Lake
+  institution: University of Technology Sydney
+-
+  id: Mike_Lynch
+  name: Mike
+  surname: Lynch
+  institution: University of Sydney
+  thumbnailUrl: Mike_Lynch.jpg
+  bio: Mike Lynch is a Data Science Group Lead at the Sydney Informatics Hub. He is a software engineer with extensive experience in building platforms and systems to support research, with a particular interest in research data management and metadata standards. 
+-
+  id: Gordon_McDonald
+  name: Gordon
+  surname: McDonald
+  honorific: Dr
+  institution: University of Sydney
+  thumbnailUrl: Gordon_McDonald.jpg
+- 
+  id: Slade_Matthews
+  name: Slade
+  surname: Matthews
+  bio: Slade Matthews is a researcher and educator whose career has been marked by his dedication to the intersection of biomedical science and machine learning. He is committed to fostering mathematical literacy among students and has made contributions to both research and education in the field. He holds two teaching awards for university teaching. Slade's primary research focus centres on the fusion of experimental design, statistical analysis, and machine learning to investigate biomedical problems, especially in toxicology. He has published 43 publications in peer-reviewed journals and has been cited 1275 times.
+  institution: University of Sydney
+  honorific: Dr
+  thumbnailUrl: Slade_Matthews.jpg
+- 
   id: "Dietmar_M\xFCller"
   bio: "Dietmar M\xFCller is Professor of Geophysics at the School of Geosciences,\
     \ University of Sydney. He received his undergraduate degree from the Univ. of\
@@ -19,136 +109,18 @@
   institution: University of Sydney
   honorific: Professor
 -
-  id: Simon_Ringer
-  name: Simon
-  surname: Ringer
-  honorific: Professor
-  bio: Pro-Vice-Chancellor (Research Infrastructure)
-  institution: University of Sydney
-- 
-  id: Slade_Matthews
-  name: Slade
-  surname: Matthews
-  bio: Slade Matthews is a researcher and educator whose career has been marked by his dedication to the intersection of biomedical science and machine learning. He is committed to fostering mathematical literacy among students and has made contributions to both research and education in the field. He holds two teaching awards for university teaching. Slade's primary research focus centres on the fusion of experimental design, statistical analysis, and machine learning to investigate biomedical problems, especially in toxicology. He has published 43 publications in peer-reviewed journals and has been cited 1275 times.
-  institution: University of Sydney
+  id: Pat_Norman
+  name: Pat
+  surname: Norman
   honorific: Dr
-  thumbnailUrl: Slade_Matthews.jpg
--
-  id: John_Zaitseff
-  name: John
-  surname: Zaitseff
-  institution: UNSW Sydney
-  thumbnailUrl: John_Zaitseff.jpg
-- 
-  id: Damian_Almeida
-  name: Damian
-  surname: Almeida
-  institution: Gale
-  thumbnailUrl: Damian_Almeida.png
-- 
-  id: Morgan_Quinn
-  name: Morgan
-  surname: Quinn
-- 
-  id: Emmanuel_Blanchard
-  name: Emmanuel
-  surname: Blanchard
-  thumbnailUrl: Emmanuel_Blanchard.png
-  institution: MathWorks
-  honorific: Dr
-  bio: Dr Emmanuel Blanchard is a senior application engineer at MathWorks who first joined the company as a training engineer in 2014. He focuses on data analytics. Prior to joining MathWorks, he was a Lecturer in Mechatronic Engineering at the University of Wollongong. He holds a PhD in Mechanical Engineering from Virginia Tech. He also worked as a Systems / Controls Engineer at Cummins Engine Company and as a research assistant in several research institutions in California and Virginia.
--
-  id: Gordon_McDonald
-  name: Gordon
-  surname: McDonald
-  honorific: Dr
-  institution: University of Sydney
-  thumbnailUrl: Gordon_McDonald.jpg
-- 
-  id: Liz_Stokes
-  name: Liz 
-  surname: Stokes
-  institution: ARDC
-  bio: Liz advocates for research trainers and connects global training communities to deliver a national skills advantage for Australian researchers. They lead a national <a href="https://ardc.edu.au/project/the-carpentries-partnership/">Carpentries Partnership</a> to help researchers train peers in programming, and coordinate a regional network of ResBaz organisers across Australia and New Zealand. At the Australian Research Data Commons, Liz also runs an internal community of practice for <a href="https://ardc.edu.au/get-involved/communities-and-groups/">Community Facilitators.</a> 
--
-  id: Amy_Cotton
-  name: Amy
-  surname: Cotton
-  institution: University of Technology Sydney
-  bio: "Amy currently implements a program with 200 learning and social opportunities for Higher Degree Research students on behalf of GRS, UTS. This includes a strong focus on wellbeing as a vital part of researcher development. She brings a diverse range of experiences to her current role, including designing and implementing statewide professional development programs for tens of thousands of teachers for the Independent Education Union, Teacher Learning Network, Victorian Department of Education and several teaching associations. She has worked as a policy negotiator and advisor, union organiser, public spokesperson, learning designer and teacher. Amy is the director of Cotton Education Services, a learning design company which builds facilitation and online solutions for development of employees or members. In her spare time, she builds communities online to help stave off loneliness for isolated people."
+  bio: Dr Pat Norman is the Research and Development Lead for Sydney Executive Plus, an executive upskilling initiative at the University of Sydney Business School. His doctoral research explored professional identity, ethics, and education policy enactment in the context of neoliberalism. Pat's research interests include professional identity and practical wisdom, artificial intelligence, the future of work and management, and approaches to flourishing under neoliberalism. Pat collaborates on the delivery of programs related to megatrends and the future of work, corporate foresight and strategy, changing management practices, AI fluency, and innovation in business. He also writes on pop culture and social theory, and has published research in Critical Studies in Education, the Australian Educational Researcher, and Teaching in Higher Education.
+  thumbnailUrl: Pat_Norman.jpg
 -
   id: Venessa_Paech
   name: Venessa
   surname: Paech
   institution: University of Sydney
   bio: Venessa (BFA, MA) is Australia’s leading expert in online communities. She has led community for Lonely Planet, REA Group, Envato and Australia Post, and as a private consultant helps organisations design, build and maintain thriving communities (including&#58; ABC, Teach for Australia, SANE and Woolworths). Venessa co-founded the longest running conference for community professionals in the world - Swarm - and in 2023 launched the first ever dedicated conference for online moderation. She is Co-Founder and Director of <a href="https://www.australiancommunitymanagers.com.au/">Australian Community Managers (ACM)</a>, the national centre of excellence for community management training, research and resources. Venessa created and teaches the first post-graduate online community management Unit and a Community at Work intensive for executives at the University of Sydney, where she is a fellow PhD Candidate researching AI and communities.
-- 
-  id: Hillary_Davis
-  name: Hillary
-  surname: Davis
-  institution: SUPRA
-  bio: Hillary is a 2nd year astrophysics PhD student at the University of Sydney. Her research is in Galactic Archaeology – a study of the history of the Milky Way galaxy. She is also a tutor of 1st and 2nd yr undergraduate physics, and holds a position as a General Councillor in SUPRA.
--
-  id: Arash_Araghi
-  name: Arash
-  surname: Araghi
-  institution: SUPRA
-  bio: Arash Araghi (HDR Equity Officer) is an Engineering PhD candidate exploring pragmatic solutions toward understanding the underlying release mechanisms of small drug molecules of short biological half-life. He also serves as the HDR Equity Officer in SUPRA representing research students to the University and advocating for the best research and education practices.
--
-  id: Mike_Lynch
-  name: Mike
-  surname: Lynch
-  institution: University of Sydney
-  thumbnailUrl: Mike_Lynch.jpg
-  bio: Mike Lynch is a Data Science Group Lead at the Sydney Informatics Hub. He is a software engineer with extensive experience in building platforms and systems to support research, with a particular interest in research data management and metadata standards. 
-- 
-  id: Brian_Ballsun-Stanton
-  name: Brian
-  surname: Ballsun-Stanton
-  institution: Macquarie University
-  honorific: Dr
-  thumbnailUrl: Brian_Ballsun-Stanton.jpg
-- 
-  id: Shannon_Taylor
-  name: Shannon
-  surname: Taylor
-  honorific: Dr
-  institution: University of Sydney
-- 
-  id: Yuchen_Chang
-  name: Yuchen
-  surname: Chang
-  institution: Centenary Institute
-  thumbnailUrl: Yuchen_Chang.png
--
-  id: Chao_Sun
-  name: Chao
-  surname: Sun
-  honorific: Dr
-  institution: University of Sydney
-- 
-  id: Cameron_Fong
-  name: Cameron
-  surname: Fong
-  honorific: Dr
-  institution: University of Sydney
-- 
-  id: Olivia_Inwood
-  name: Olivia
-  surname: Inwood
-  institution: Western Sydney University
-  thumbnailUrl: Olivia_Inwood.jpg
-  thumbnailUrl: default.png
--
-  id: Michael_Lake
-  name: Michael
-  surname: Lake
-  institution: University of Technology Sydney
-- 
-  id: Tom_Honeyman
-  name: Tom
-  surname: Honeyman
-  institution: ARDC
 -
   id: Kai_Riemer
   name: Kai
@@ -157,12 +129,12 @@
   institution: University of Sydney
   thumbnailUrl: Kai_Riemer.jpg
 -
-  id: Pat_Norman
-  name: Pat
-  surname: Norman
-  honorific: Dr
-  bio: Dr Pat Norman is the Research and Development Lead for Sydney Executive Plus, an executive upskilling initiative at the University of Sydney Business School. His doctoral research explored professional identity, ethics, and education policy enactment in the context of neoliberalism. Pat's research interests include professional identity and practical wisdom, artificial intelligence, the future of work and management, and approaches to flourishing under neoliberalism. Pat collaborates on the delivery of programs related to megatrends and the future of work, corporate foresight and strategy, changing management practices, AI fluency, and innovation in business. He also writes on pop culture and social theory, and has published research in Critical Studies in Education, the Australian Educational Researcher, and Teaching in Higher Education.
-  thumbnailUrl: Pat_Norman.jpg
+  id: Simon_Ringer
+  name: Simon
+  surname: Ringer
+  honorific: Professor
+  bio: Pro-Vice-Chancellor (Research Infrastructure)
+  institution: University of Sydney
 -
   id: Avinash_Singh
   name: Avinash
@@ -171,6 +143,24 @@
   bio: Dr Avinash Singh is a Lecturer (Assistant Professor) in the School of Computer Science in the University of Technology Sydney (UTS), Australia. He works in the intersection of AI/machine learning, cognitive neuroscience, signal processing and mixed-reality to design and develop real-world neuroadaptive Brain-Computer Interfaces/Neurotech systems. He also serves as co-chair in the IEEE Neuroethics Framework for Workplace sponsored by IEEE Brain and the IEEE Standards committee on Unifying BCIs technologies and standards.
   institution: University of Technology Sydney
   thumbnailUrl: Avinash_Singh.jpg
+- 
+  id: Liz_Stokes
+  name: Liz 
+  surname: Stokes
+  institution: ARDC
+  bio: Liz advocates for research trainers and connects global training communities to deliver a national skills advantage for Australian researchers. They lead a national <a href="https://ardc.edu.au/project/the-carpentries-partnership/">Carpentries Partnership</a> to help researchers train peers in programming, and coordinate a regional network of ResBaz organisers across Australia and New Zealand. At the Australian Research Data Commons, Liz also runs an internal community of practice for <a href="https://ardc.edu.au/get-involved/communities-and-groups/">Community Facilitators.</a> 
+-
+  id: Chao_Sun
+  name: Chao
+  surname: Sun
+  honorific: Dr
+  institution: University of Sydney
+- 
+  id: Shannon_Taylor
+  name: Shannon
+  surname: Taylor
+  honorific: Dr
+  institution: University of Sydney
 -
   id: Michael_Walker
   name: Michael
@@ -186,3 +176,9 @@
   bio: Simon has been developing Qristal , an open source SDK that integrates quantum computing on HPC sites. He is an alumni from Sydney Uni (B.Eng,electrical + B.Commerce) and has a MSc in HPC from National University of Singapore. He has also worked previously for Cochlear, UNSW CQCT, Intersect, Childrens Cancer Institute and UNSW ResTech
   institution: Quantum Brilliance
   thumbnailUrl: Simon_Yin.jpg
+-
+  id: John_Zaitseff
+  name: John
+  surname: Zaitseff
+  institution: UNSW Sydney
+  thumbnailUrl: John_Zaitseff.jpg
