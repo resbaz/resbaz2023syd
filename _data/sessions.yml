@@ -141,7 +141,8 @@
   id: chatgpt_masterclass
   speakers: [ Gordon_McDonald ]
   subtype: presentation
-  title: ChatGPT
+  title: ChatGPT for Research
+  description: So everyone is using ChatGPT these days but how exactly can you get the most out of it for your research? In this talk I'll show you three killer ways you can take advantage of these new AI magic tricks so you can use them like a research wizard. I'll briefly overview the traps to avoid, and then show you a glimpse of the future where AI does the boring parts of your job for you!
   topics: [ ai ]
 - description: This panel explores the critical ways that Community can bolster personal wellbeing on the often grueling and isolating PhD journey. Our special guest experts will share lived experiences and advice on both building and accessing community, online and offline.
   id: wellbeing
